@@ -6,3 +6,16 @@ Also, I LOVE quasi-esoteric pursuits like LeetCode, with Japanese and stenograph
 My (tentative) goal is to complete ALL of the LeetCode problems (2142 as of 2022/01/18).
 
 Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
+
+## Solution Records
+### Contents
+<!-- MarkdownTOC -->
+
+- [1. Two Sum](#1-two-sum)
+
+<!-- /MarkdownTOC -->
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+#### [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- 2022/01/19 - Initial solution.
+- 2022/01/20 - Solution time = 5:23.
