@@ -12,6 +12,7 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 <!-- MarkdownTOC -->
 
 - [1. Two Sum](#1-two-sum)
+- [217. Contains Duplicate](#217-contains-duplicate)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
@@ -21,3 +22,6 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 
 1. 2022-01-20 – Initial solution (Python)
 2. 2022-01-20 – Solution time = 2:02 (Python)
+
+#### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+1. 2022-01-20 - Initial solution (Python)
