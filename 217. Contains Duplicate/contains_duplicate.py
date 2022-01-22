@@ -18,8 +18,9 @@ class SolutionAlternate:
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     def containsDuplicate(self, numbers: list[int]) -> bool:
-        contains_duplicate = len(numbers) > len(set(numbers))
-        return contains_duplicate
+        length_list = len(numbers)
+        length_set = len(set(numbers))
+        return length_list > length_set
 
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
