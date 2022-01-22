@@ -25,7 +25,8 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 2. 2022-01-20 – Solution time = 2:02 (Python)
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-Transpose + reflect approach is nice because it uses standard matrix operations.
+- Transpose + reflect approach is nice because it uses standard matrix operations.
+- numpy-based solution is surprisingly slow.
 
 1. 2022-01-22 – Initial solution (Python)
 

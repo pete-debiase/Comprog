@@ -2,6 +2,7 @@
 """https://leetcode.com/problems/rotate-image/"""
 
 import timeit
+import numpy as np
 
 class SolutionInitial:
     # Time Complexity: O(M) where M = number of cells in matrix
@@ -39,6 +40,12 @@ if __name__ == '__main__':
     print('\n'.join(['\t'.join([str(cell) for cell in row]) for row in matrix]))
     print()
 
+    # Example 3 (Expected Output: [[15, 13, 2, 5], [14, 3, 4, 1], [12, 6, 8, 9], [16, 7, 10, 11]])
+    matrix = np.array([[5, 1, 9, 11], [2, 4, 8, 10], [13, 3, 6, 7], [15, 14, 12, 16]])
+    rotated = np.rot90(matrix, axes=(1, 0))
+    print(f'{rotated}\n')
+
     # # Benchmarking
     matrix = [[5, 1, 9, 11], [2, 4, 8, 10], [13, 3, 6, 7], [15, 14, 12, 16]]
-    print(timeit.timeit(lambda: solution_initial.rotate(matrix), number=100_000))
+    print(timeit.timeit(lambda: solution_initial.rotate(matrix), number=1_000_000))
+    print(timeit.timeit(lambda: np.rot90(matrix, axes=(1, 0)), number=1_000_000))
