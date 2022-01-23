@@ -23,12 +23,14 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 
 1. 2022-01-20 – Initial solution (Python)
 2. 2022-01-20 – Solution time = 2:02 (Python)
+3. 2022-01-23 – Solution time = 4:03 (Python)
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
 - numpy-based solution is surprisingly slow.
 
 1. 2022-01-22 – Initial solution (Python)
+2. 2022-01-23 – Solution time = 3:48 (Python)
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", so if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
