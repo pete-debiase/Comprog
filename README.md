@@ -1,7 +1,7 @@
 # LeetCode
 Many devs bemoan the fact that technical interviews are so focused on quasi-esoteric LeetCode-style data structures and algorithms coding problems, but I think it's great. How wonderful to have such a big component of interviewing be such a well-defined little minigame :) .
 
-Also, I LOVE quasi-esoteric pursuits like LeetCode, with Japanese and stenography being two of my other favorites!
+Also, I LOVE quasi-esoteric pursuits like LeetCode, with Japanese (language) and stenography being two of my other favorites!
 
 My (tentative, maybe insane) goal is to complete ALL of the LeetCode problems (2142 as of 2022/01/18).
 
@@ -40,7 +40,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 2. 2022-01-24 – Solution time = 2:31 (Python)
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", so if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
+Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
 
 1. 2022-01-20 – Initial solution (Python)
 2. 2022-01-22 – Solution time = 1:18 (Python)
