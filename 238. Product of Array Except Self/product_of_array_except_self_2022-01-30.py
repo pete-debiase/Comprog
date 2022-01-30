@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""https://leetcode.com/problems/product-of-array-except-self"""
+"""https://leetcode.com/problems/product-of-array-except-self/"""
 
 class Solution:
     def productExceptSelf(self, numbers: list[int]) -> list[int]:
@@ -16,5 +16,4 @@ class Solution:
             right_product *= numbers[i]
 
         return products
-
 

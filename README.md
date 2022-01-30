@@ -34,6 +34,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 1. 2022-01-22 – Initial solution (Python)
 2. 2022-01-23 – Solution time = 3:48 (Python)
 3. 2022-01-29 – No solution (Python)
+4. 2022-01-30 – Solution time = 3:21 (Python)
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -53,3 +54,4 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 
 1. 2022-01-27 – Initial solution (Python)
 2. 2022-01-29 – No solution (Python)
+3. 2022-01-30 – Solution time = 3:14 (Python)
