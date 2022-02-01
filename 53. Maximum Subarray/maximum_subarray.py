@@ -7,8 +7,8 @@ class SolutionInitial:
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     def maxSubArray(self, numbers: list[int]) -> int:
-        sum_current = sum_max = numbers[0]
-        for number in numbers[1:]:
+        sum_current = sum_max = -float('inf')
+        for number in numbers:
             sum_current = max(number, sum_current + number)
             sum_max = max(sum_current, sum_max)
         return sum_max

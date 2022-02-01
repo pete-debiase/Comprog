@@ -15,6 +15,7 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 - [48. Rotate Image](#48-rotate-image)
 - [53. Maximum Subarray](#53-maximum-subarray)
 - [121. Best Time to Buy and Sell Stock](#121-best-time-to-buy-and-sell-stock)
+- [152. Maximum Product Subarray](#152-maximum-product-subarray)
 - [217. Contains Duplicate](#217-contains-duplicate)
 - [238. Product of Array Except Self](#238-product-of-array-except-self)
 
@@ -50,6 +51,10 @@ Very similar to 121.
 1. 2022-01-23 – Initial solution (Python)
 2. 2022-01-24 – Solution time = 2:31 (Python)
 3. 2022-01-29 – Solution time = 3:54 (Python)
+
+#### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+1. 2022-02-01 – Initial solution (Python)
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
