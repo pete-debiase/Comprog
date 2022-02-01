@@ -39,7 +39,7 @@ if __name__ == '__main__':
     print(solution_initial.maxSubArray(numbers))
     print(solution_alternate.maxSubArray(numbers))
 
-    # Example 2 (Expected Output: 23)
+    # Example 3 (Expected Output: 23)
     numbers = [5, 4, -1, 7, 8]
     print(solution_initial.maxSubArray(numbers))
     print(solution_alternate.maxSubArray(numbers))
