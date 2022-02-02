@@ -38,6 +38,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 2. 2022-01-23 – Solution time = 3:48 (Python)
 3. 2022-01-29 – No solution (Python)
 4. 2022-01-30 – Solution time = 3:21 (Python)
+5. 2022-02-02 – Solution time = 3:18 (Python)
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
@@ -55,6 +56,7 @@ Very similar to 121.
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 1. 2022-02-01 – Initial solution (Python)
+2. 2022-02-02 – Solution time = 4:56 (Python)
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -68,3 +70,4 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 1. 2022-01-27 – Initial solution (Python)
 2. 2022-01-29 – No solution (Python)
 3. 2022-01-30 – Solution time = 3:14 (Python)
+4. 2022-02-02 – Solution time = 3:30 (Python)
