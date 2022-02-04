@@ -45,6 +45,7 @@ Very similar to 121.
 
 1. 2022-01-30 – Initial solution (Python)
 2. 2022-01-31 – Solution time = 2:41 (Python)
+3. 2022-02-04 – Solution time = 3:01 (Python)
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
