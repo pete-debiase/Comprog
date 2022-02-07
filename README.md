@@ -18,6 +18,7 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 - [152. Maximum Product Subarray](#152-maximum-product-subarray)
 - [217. Contains Duplicate](#217-contains-duplicate)
 - [238. Product of Array Except Self](#238-product-of-array-except-self)
+- [242. Valid Anagram](#242-valid-anagram)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
@@ -74,3 +75,10 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 2. 2022-01-29 – No solution (Python)
 3. 2022-01-30 – Solution time = 3:14 (Python)
 4. 2022-02-02 – Solution time = 3:30 (Python)
+
+#### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- In Python:
+    + `collections.defaultdict` is a special dictionary that automatically initializes a value the first time a key is encountered.
+    + `collections.Counter` object can be used to solve this problem in one line.
+
+1. 2022-02-07 – Initial solution (Python)
