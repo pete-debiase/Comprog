@@ -12,6 +12,7 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 <!-- MarkdownTOC -->
 
 - [1. Two Sum](#1-two-sum)
+- [20. Valid Parentheses](#20-valid-parentheses)
 - [48. Rotate Image](#48-rotate-image)
 - [53. Maximum Subarray](#53-maximum-subarray)
 - [121. Best Time to Buy and Sell Stock](#121-best-time-to-buy-and-sell-stock)
@@ -31,6 +32,11 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 3. 2022-01-23 – Solution time = 4:03 (Python)
 4. 2022-01-31 – Solution time = 1:59 (Python)
 5. 2022-02-22 – Solution time = 10:00+ (Python)
+
+#### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+1. 2022-02-23 – Initial solution (Python)
+
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
