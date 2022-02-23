@@ -30,6 +30,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 2. 2022-01-20 – Solution time = 2:02 (Python)
 3. 2022-01-23 – Solution time = 4:03 (Python)
 4. 2022-01-31 – Solution time = 1:59 (Python)
+5. 2022-02-22 – Solution time = 10:00+ (Python)
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -48,6 +49,7 @@ Very similar to 121.
 1. 2022-01-30 – Initial solution (Python)
 2. 2022-01-31 – Solution time = 2:41 (Python)
 3. 2022-02-04 – Solution time = 3:01 (Python)
+4. 2022-02-22 – Solution time = 5:15 (Python)
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -62,6 +64,7 @@ Very similar to 121.
 1. 2022-02-01 – Initial solution (Python)
 2. 2022-02-02 – Solution time = 4:56 (Python)
 3. 2022-02-05 – Solution time = 3:12 (Python)
+4. 2022/02/22 – No solution (Python)
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -69,6 +72,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 1. 2022-01-20 – Initial solution (Python)
 2. 2022-01-22 – Solution time = 1:18 (Python)
 3. 2022-01-29 – Solution time = 1:29 (Python)
+4. 2022-02-22 – Solution time = 1:59 (Python)
 
 #### [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
@@ -84,3 +88,4 @@ Real-world performance can be different from what Big-O notation says. Big-O not
     + `collections.Counter` object can be used to solve this problem in one line.
 
 1. 2022-02-07 – Initial solution (Python)
+2. 2022-02-22 – Solution time = 2:29 (Python)
