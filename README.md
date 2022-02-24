@@ -10,19 +10,10 @@ I use Anki to manage my LeetCode study schedule and ensure that I do not forget 
 Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 
 ## Contents
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC levels="1,2" -->
 
 - [Solution History](#solution-history)
 - [Notes / Solution Times](#notes--solution-times)
-    + [1. Two Sum](#1-two-sum)
-    + [20. Valid Parentheses](#20-valid-parentheses)
-    + [48. Rotate Image](#48-rotate-image)
-    + [53. Maximum Subarray](#53-maximum-subarray)
-    + [121. Best Time to Buy and Sell Stock](#121-best-time-to-buy-and-sell-stock)
-    + [152. Maximum Product Subarray](#152-maximum-product-subarray)
-    + [217. Contains Duplicate](#217-contains-duplicate)
-    + [238. Product of Array Except Self](#238-product-of-array-except-self)
-    + [242. Valid Anagram](#242-valid-anagram)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
