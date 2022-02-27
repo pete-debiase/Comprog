@@ -34,7 +34,7 @@ class SolutionAlternate:
         products = [left * right for left, right in zip(lefts, rights)]
         return products
 
-class SolutionAlternate2:
+class SolutionPreferred:
     # Time Complexity: O(n)
     # Space Complexity: O(1)
     def productExceptSelf(self, numbers: list[int]) -> list[int]:
@@ -56,25 +56,26 @@ class SolutionAlternate2:
 
         return products
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_alternate = SolutionAlternate()
-    solution_alternate2 = SolutionAlternate2()
+    solution_preferred = SolutionPreferred()
 
     # Example 1 (Expected Output: [24, 12, 8, 6])
     numbers = [1, 2, 3, 4]
     print(solution_initial.productExceptSelf(numbers))
     print(solution_alternate.productExceptSelf(numbers))
-    print(solution_alternate2.productExceptSelf(numbers))
+    print(solution_preferred.productExceptSelf(numbers))
 
     # Example 2 (Expected Output: [0, 0, 9, 0, 0])
     numbers = [-1, 1, 0, -3, 3]
     print(solution_initial.productExceptSelf(numbers))
     print(solution_alternate.productExceptSelf(numbers))
-    print(solution_alternate2.productExceptSelf(numbers))
+    print(solution_preferred.productExceptSelf(numbers))
 
     # Benchmarking
     numbers = list(range(1_000))
     print(timeit.timeit(lambda: solution_initial.productExceptSelf(numbers), number=100))
     print(timeit.timeit(lambda: solution_alternate.productExceptSelf(numbers), number=100)) # ≈12x faster
-    print(timeit.timeit(lambda: solution_alternate2.productExceptSelf(numbers), number=100)) # ≈2x faster
+    print(timeit.timeit(lambda: solution_preferred.productExceptSelf(numbers), number=100)) # ≈2x faster

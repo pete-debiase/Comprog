@@ -4,8 +4,7 @@
 import timeit
 from collections import defaultdict, Counter
 
-
-class SolutionInitial:
+class SolutionPreferred:
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     def isAnagram(self, s1: str, s2: str) -> bool:
@@ -21,7 +20,6 @@ class SolutionInitial:
             else:
                 charmap[c] = 1
         return charmap
-
 
 class SolutionAlternate:
     # Time Complexity: O(n)
@@ -40,24 +38,24 @@ class SolutionAlternate2:
 
 
 if __name__ == '__main__':
-    solution_initial = SolutionInitial()
+    solution_preferred = SolutionPreferred()
     solution_alternate = SolutionAlternate()
     solution_alternate2 = SolutionAlternate2()
 
     # Example 1 (Expected Output: True)
     s1, s2 = 'anagram', 'nagaram'
-    print(solution_initial.isAnagram(s1, s2))
+    print(solution_preferred.isAnagram(s1, s2))
     print(solution_alternate.isAnagram(s1, s2))
     print(solution_alternate2.isAnagram(s1, s2))
 
     # Example 2 (Expected Output: False)
     s1, s2 = 'rat', 'car'
-    print(solution_initial.isAnagram(s1, s2))
+    print(solution_preferred.isAnagram(s1, s2))
     print(solution_alternate.isAnagram(s1, s2))
     print(solution_alternate2.isAnagram(s1, s2))
 
     # Benchmarking
     s1, s2 = 'anagram', 'nagaram'
-    print(timeit.timeit(lambda: solution_initial.isAnagram(s1, s2), number=100_000))
+    print(timeit.timeit(lambda: solution_preferred.isAnagram(s1, s2), number=100_000))
     print(timeit.timeit(lambda: solution_alternate.isAnagram(s1, s2), number=100_000)) # Slower
     print(timeit.timeit(lambda: solution_alternate2.isAnagram(s1, s2), number=100_000)) # Slower

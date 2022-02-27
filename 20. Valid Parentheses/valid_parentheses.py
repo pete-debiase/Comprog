@@ -19,7 +19,7 @@ class SolutionInitial:
                 length = length_new
         return True
 
-class SolutionAlternate:
+class SolutionPreferred:
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     def isValid(self, string: str) -> bool:
@@ -35,24 +35,24 @@ class SolutionAlternate:
 
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
-    solution_alternate = SolutionAlternate()
+    solution_preferred = SolutionPreferred()
 
     # Example 1 (Expected Output: True)
     s = "()"
     print(solution_initial.isValid(s))
-    print(solution_alternate.isValid(s))
+    print(solution_preferred.isValid(s))
 
     # Example 2 (Expected Output: True)
     s = "()[]{}"
     print(solution_initial.isValid(s))
-    print(solution_alternate.isValid(s))
+    print(solution_preferred.isValid(s))
 
     # Example 3 (Expected Output: False)
     s = "(]"
     print(solution_initial.isValid(s))
-    print(solution_alternate.isValid(s))
+    print(solution_preferred.isValid(s))
 
     # Benchmarking
     s = "(]"
     print(timeit.timeit(lambda: solution_initial.isValid(s), number=100_000))
-    print(timeit.timeit(lambda: solution_alternate.isValid(s), number=100_000)) # Slower
+    print(timeit.timeit(lambda: solution_preferred.isValid(s), number=100_000))

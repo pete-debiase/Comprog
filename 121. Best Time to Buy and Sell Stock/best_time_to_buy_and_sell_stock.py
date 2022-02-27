@@ -17,7 +17,7 @@ class SolutionInitial:
                 max_profit = max_profit_temp if max_profit_temp > max_profit else max_profit
         return max_profit
 
-class SolutionAlternate():
+class SolutionPreferred():
     # Time Complexity: O(n)
     # Space Complexity: O(1)
     def maxProfit(self, prices: list[int]) -> int:
@@ -31,19 +31,19 @@ class SolutionAlternate():
 
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
-    solution_alternate = SolutionAlternate()
+    solution_preferred = SolutionPreferred()
 
     # Example 1 (Expected Output: 5)
     prices = [7, 1, 5, 3, 6, 4]
     print(solution_initial.maxProfit(prices))
-    print(solution_alternate.maxProfit(prices))
+    print(solution_preferred.maxProfit(prices))
 
     # Example 2 (Expected Output: 0)
     prices = [7, 6, 4, 3, 1]
     print(solution_initial.maxProfit(prices))
-    print(solution_alternate.maxProfit(prices))
+    print(solution_preferred.maxProfit(prices))
 
     # Benchmarking
     prices = list(range(1000))
     print(timeit.timeit(lambda: solution_initial.maxProfit(prices), number=1000))
-    print(timeit.timeit(lambda: solution_alternate.maxProfit(prices), number=1000))
+    print(timeit.timeit(lambda: solution_preferred.maxProfit(prices), number=1000))

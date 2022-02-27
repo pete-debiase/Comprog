@@ -3,7 +3,7 @@
 
 import timeit
 
-class SolutionBrute:
+class SolutionInitial:
     # Time Complexity: O(n^2)
     # Space Complexity: O(1)
     def twoSum(self, nums: list[int], target: int) -> list[int]:
@@ -12,7 +12,7 @@ class SolutionBrute:
                 if nums[j] == target - nums[i]:
                     return [i, j]
 
-class Solution1PassHash:
+class SolutionPreferred:
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     def twoSum(self, nums: list[int], target: int) -> list[int]:
@@ -25,29 +25,29 @@ class Solution1PassHash:
 
 
 if __name__ == '__main__':
-    solution_brute = SolutionBrute()
-    solution_1passhash = Solution1PassHash()
+    solution_initial = SolutionInitial()
+    solution_preferred = SolutionPreferred()
 
     # Example 1 (Expected Output: [0,1])
     nums = [2, 7, 11, 15]
     target = 9
-    print(solution_brute.twoSum(nums, target))
-    print(solution_1passhash.twoSum(nums, target))
+    print(solution_initial.twoSum(nums, target))
+    print(solution_preferred.twoSum(nums, target))
 
     # Example 2 (Expected Output: [1,2])
     nums = [3, 2, 4]
     target = 6
-    print(solution_brute.twoSum(nums, target))
-    print(solution_1passhash.twoSum(nums, target))
+    print(solution_initial.twoSum(nums, target))
+    print(solution_preferred.twoSum(nums, target))
 
     # Example 3 (Expected Output: [0,1])
     nums = [3, 3]
     target = 6
-    print(solution_brute.twoSum(nums, target))
-    print(solution_1passhash.twoSum(nums, target))
+    print(solution_initial.twoSum(nums, target))
+    print(solution_preferred.twoSum(nums, target))
 
     # Benchmarking
     nums = list(range(100_000))
     target = 100_000
-    print(timeit.timeit(lambda: solution_brute.twoSum(nums, target), number=100))
-    print(timeit.timeit(lambda: solution_1passhash.twoSum(nums, target), number=100))
+    print(timeit.timeit(lambda: solution_initial.twoSum(nums, target), number=100))
+    print(timeit.timeit(lambda: solution_preferred.twoSum(nums, target), number=100))
