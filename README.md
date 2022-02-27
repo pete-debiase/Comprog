@@ -26,72 +26,89 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
-1. 2022-01-20 – Initial solution (Python)
-2. 2022-01-20 – Solution time = 2:02 (Python)
-3. 2022-01-23 – Solution time = 4:03 (Python)
-4. 2022-01-31 – Solution time = 1:59 (Python)
-5. 2022-02-22 – Solution time = 10:00+ (Python)
+|    Date     |  Solution Time   | Language |
+|:-----------:|:----------------:|:--------:|
+| 2022/01/20  | Initial solution |  Python  |
+| 2022/01/20  |       2:02       |  Python  |
+| 2022/01/23  |       4:03       |  Python  |
+| 2022/01/31  |       1:59       |  Python  |
+| 2022/02/22  |      10:00+      |  Python  |
 
 ### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-1. 2022-02-23 – Initial solution (Python)
-2. 2022-02-24 – Solution time = 3:25 (Python)
-
+|    Date     |  Solution Time   | Language |
+|:-----------:|:----------------:|:--------:|
+| 2022/02/23  | Initial solution |  Python  |
+| 2022/02/24  |       3:25       |  Python  |
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
 - numpy-based solution is surprisingly slow.
 
-1. 2022-01-22 – Initial solution (Python)
-2. 2022-01-23 – Solution time = 3:48 (Python)
-3. 2022-01-29 – No solution (Python)
-4. 2022-01-30 – Solution time = 3:21 (Python)
-5. 2022-02-02 – Solution time = 3:18 (Python)
-6. 2022-02-11 – Solution time = 1:59 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/22 | Initial solution |  Python  |
+| 2022/01/23 |       3:48       |  Python  |
+| 2022/01/29 |   No solution    |  Python  |
+| 2022/01/30 |       3:21       |  Python  |
+| 2022/02/02 |       3:18       |  Python  |
+| 2022/02/11 |       1:59       |  Python  |
 
 ### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
 
-1. 2022-01-30 – Initial solution (Python)
-2. 2022-01-31 – Solution time = 2:41 (Python)
-3. 2022-02-04 – Solution time = 3:01 (Python)
-4. 2022-02-22 – Solution time = 5:15 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/30 | Initial solution |  Python  |
+| 2022/01/31 |       2:41       |  Python  |
+| 2022/02/04 |       3:01       |  Python  |
+| 2022/02/22 |       5:15       |  Python  |
 
 ### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
 
-1. 2022-01-23 – Initial solution (Python)
-2. 2022-01-24 – Solution time = 2:31 (Python)
-3. 2022-01-29 – Solution time = 3:54 (Python)
-4. 2022-02-05 – Solution time = 4:09 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/23 | Initial solution |  Python  |
+| 2022/01/24 |       2:31       |  Python  |
+| 2022/01/29 |       3:54       |  Python  |
+| 2022/02/05 |       4:09       |  Python  |
 
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
-1. 2022-02-01 – Initial solution (Python)
-2. 2022-02-02 – Solution time = 4:56 (Python)
-3. 2022-02-05 – Solution time = 3:12 (Python)
-4. 2022/02/22 – No solution (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/02/01 | Initial solution |  Python  |
+| 2022/02/02 |       4:56       |  Python  |
+| 2022/02/05 |       3:12       |  Python  |
+| 2022/02/22 |   No solution    |  Python  |
 
 ### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
 
-1. 2022-01-20 – Initial solution (Python)
-2. 2022-01-22 – Solution time = 1:18 (Python)
-3. 2022-01-29 – Solution time = 1:29 (Python)
-4. 2022-02-22 – Solution time = 1:59 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/20 | Initial solution |  Python  |
+| 2022/01/22 |       1:18       |  Python  |
+| 2022/01/29 |       1:29       |  Python  |
+| 2022/02/22 |       1:59       |  Python  |
 
 ### [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-1. 2022-01-27 – Initial solution (Python)
-2. 2022-01-29 – No solution (Python)
-3. 2022-01-30 – Solution time = 3:14 (Python)
-4. 2022-02-02 – Solution time = 3:30 (Python)
-5. 2022-02-11 – Solution time = 6:09 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/27 | Initial solution |  Python  |
+| 2022/01/29 |   No solution    |  Python  |
+| 2022/01/30 |       3:14       |  Python  |
+| 2022/02/02 |       3:30       |  Python  |
+| 2022/02/11 |       6:09       |  Python  |
 
 ### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - In Python:
     + `collections.defaultdict` is a special dictionary that automatically initializes a value the first time a key is encountered.
     + `collections.Counter` object can be used to solve this problem in one line.
 
-1. 2022-02-07 – Initial solution (Python)
-2. 2022-02-22 – Solution time = 2:29 (Python)
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/02/07 | Initial solution |  Python  |
+| 2022/02/22 |       2:29       |  Python  |
