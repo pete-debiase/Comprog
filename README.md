@@ -10,17 +10,17 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 ## Contents
 <!-- MarkdownTOC levels="1,2" -->
 
-- [Solution Records](#solution-records)
-- [Solution Details / Notes](#solution-details--notes)
+- [Solution Stats](#solution-stats)
+- [Solution Records / Notes](#solution-records--notes)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## Activity History
-|    Date     | Total Problems Solved | Total Problems Available |   Rank   |
-|:-----------:|:---------------------:|:------------------------:|:--------:|
-| 2022/01/08  |           0           |           2142           |   ???    |
-| 2022/02/24  |           9           |           2184           | ≈100,000 |
+## Solution Stats
+|    Date    | Total Solved | Total Available |   Rank   |
+|:----------:|:------------:|:---------------:|:--------:|
+| 2022/01/08 |      0       |      2142       |   ???    |
+| 2022/02/24 |      9       |      2184       | ≈100,000 |
 
 ## Solution Records / Notes
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
@@ -85,6 +85,13 @@ Very similar to 121.
 | 2022/02/02 |       4:56       |  Python  |
 | 2022/02/05 |       3:12       |  Python  |
 | 2022/02/22 |   No solution    |  Python  |
+
+### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+Use two-pointer solution to take advantage of input array already being sorted.
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/02/27 | Initial solution |  Python  |
 
 ### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
