@@ -16,13 +16,13 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## Solution Records
-|    Date     | Total Problems Solved | Total Problems Available |
-|:-----------:|:---------------------:|:------------------------:|
-| 2022/01/08  |           0           |           2142           |
-| 2022/02/24  |           9           |           2184           |
+## Activity History
+|    Date     | Total Problems Solved | Total Problems Available |   Rank   |
+|:-----------:|:---------------------:|:------------------------:|:--------:|
+| 2022/01/08  |           0           |           2142           |   ???    |
+| 2022/02/24  |           9           |           2184           | ≈100,000 |
 
-## Solution Details / Notes
+## Solution Records / Notes
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
