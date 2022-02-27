@@ -1,30 +1,28 @@
 # LeetCode
-Many devs complain about how technical interviews are so focused on quasi-esoteric LeetCode-style data structure and algorithm coding problems, but personally I think it's great. How wonderful to have such a big component of the interview process be such a well-defined little minigame :) .
+Many devs complain about how technical interviews are so focused on quasi-esoteric LeetCode-style data structures and algorithms problems, but personally I think it's great. How wonderful to have such a big component of interviewing be such a well-defined little minigame :) .
 
-Also, I happen to LOVE quasi-esoteric life minigames, with Japanese (language) and [stenography](dummy_link) being two of my other favorites!
+I also happen to LOVE quasi-esoteric little life minigames, with Japanese (language) and [stenography](dummy_link) being two of my other favorites. Therefore, my new hobby and (tentative, maybe insane) goal is to solve ALL of the LeetCode problems.
 
-Therefore, my new hobby and (tentative, maybe insane) goal is to solve ALL of the LeetCode problems.
-
-I use Anki to manage my LeetCode study schedule and ensure that I do not forget how to solve previously solved problems.
+I use Anki to manage my LeetCode study schedule and ensure that I remember how to solve past problems.
 
 Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 
 ## Contents
 <!-- MarkdownTOC levels="1,2" -->
 
-- [Solution History](#solution-history)
-- [Notes / Solution Times](#notes--solution-times)
+- [Solution Records](#solution-records)
+- [Solution Details / Notes](#solution-details--notes)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## Solution History
-| Date       | Problems Solved | Total Problems |
-|:-----------|:---------------:|:--------------:|
-| 2022/01/08 |        0        |      2142      |
-| 2022/02/24 |        9        |      2184      |
+## Solution Records
+|    Date     | Total Problems Solved | Total Problems Available |
+|:-----------:|:---------------------:|:------------------------:|
+| 2022/01/08  |           0           |           2142           |
+| 2022/02/24  |           9           |           2184           |
 
-## Notes / Solution Times
+## Solution Details / Notes
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
