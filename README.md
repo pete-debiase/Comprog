@@ -40,6 +40,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 |:-----------:|:----------------:|:--------:|
 | 2022/02/23  | Initial solution |  Python  |
 | 2022/02/24  |       3:25       |  Python  |
+| 2022/02/27  |       2:05       |  Python  |
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -53,6 +54,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/01/30 |       3:21       |  Python  |
 | 2022/02/02 |       3:18       |  Python  |
 | 2022/02/11 |       1:59       |  Python  |
+| 2022/02/26 |       2:24       |  Python  |
 
 ### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
@@ -73,6 +75,7 @@ Very similar to 121.
 | 2022/01/24 |       2:31       |  Python  |
 | 2022/01/29 |       3:54       |  Python  |
 | 2022/02/05 |       4:09       |  Python  |
+| 2022/02/26 |       3:53       |  Python  |
 
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -102,6 +105,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/01/30 |       3:14       |  Python  |
 | 2022/02/02 |       3:30       |  Python  |
 | 2022/02/11 |       6:09       |  Python  |
+| 2022/02/26 |       4:25       |  Python  |
 
 ### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - In Python:
