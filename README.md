@@ -23,6 +23,8 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 | 2022/02/24 |      9       |      2184       | ≈100,000 |
 
 ## Solution Records / Notes
+Note: Initial solutions marked with 😊 indicate that I was able to implement at least one solution independently.
+
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
@@ -63,6 +65,13 @@ I don't like this problem :( .
 | 2022/02/02 |       3:18       |  Python  |
 | 2022/02/11 |       1:59       |  Python  |
 | 2022/02/26 |       2:24       |  Python  |
+
+### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- In Python, use `collections.defaultdict` whenever you encounter a situation like this problem (building a hashmap where it is super convenient to have a default value automatically initialized for each key encountered).
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/02/28 | Initial solution 😊 |  Python  |
 
 ### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
