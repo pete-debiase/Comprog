@@ -15,7 +15,7 @@ class SolutionInitial:
                 self.two_sum_ii(nums, i, triplets)
         return triplets
 
-    def two_sum_ii(self, nums: list[int], i: int, triplets: list[list[int]]) -> list[list[int]]:
+    def two_sum_ii(self, nums: list[int], i: int, triplets: list[list[int]]):
         i_lo, i_hi = i + 1, len(nums) - 1
         while i_lo < i_hi:
             triplet = [nums[i], nums[i_lo], nums[i_hi]]
@@ -27,7 +27,6 @@ class SolutionInitial:
                 i_lo, i_hi = i_lo + 1, i_hi - 1
                 while i_lo < i_hi and nums[i_lo] == nums[i_lo - 1]:
                     i_lo += 1
-        return triplets
 
 
 if __name__ == '__main__':

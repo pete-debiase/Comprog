@@ -26,28 +26,29 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
-|    Date     |  Solution Time   | Language |
-|:-----------:|:----------------:|:--------:|
-| 2022/01/20  | Initial solution |  Python  |
-| 2022/01/20  |       2:02       |  Python  |
-| 2022/01/23  |       4:03       |  Python  |
-| 2022/01/31  |       1:59       |  Python  |
-| 2022/02/22  |      10:00+      |  Python  |
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/01/20 | Initial solution |  Python  |
+| 2022/01/20 |       2:02       |  Python  |
+| 2022/01/23 |       4:03       |  Python  |
+| 2022/01/31 |       1:59       |  Python  |
+| 2022/02/22 |      10:00+      |  Python  |
 
 ### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( .
 
-|    Date     |  Solution Time   | Language |
-|:-----------:|:----------------:|:--------:|
-| 2022/02/27  | Initial solution |  Python  |
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/02/27 | Initial solution |  Python  |
+| 2022/02/28 |      10:00+      |  Python  |
 
 ### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-|    Date     |  Solution Time   | Language |
-|:-----------:|:----------------:|:--------:|
-| 2022/02/23  | Initial solution |  Python  |
-| 2022/02/24  |       3:25       |  Python  |
-| 2022/02/27  |       2:05       |  Python  |
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/02/23 | Initial solution |  Python  |
+| 2022/02/24 |       3:25       |  Python  |
+| 2022/02/27 |       2:05       |  Python  |
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -99,6 +100,7 @@ Use two-pointer solution to take advantage of input array already being sorted.
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/02/27 | Initial solution |  Python  |
+| 2022/02/28 |       4:51       |  Python  |
 
 ### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
