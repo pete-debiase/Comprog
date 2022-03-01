@@ -72,6 +72,7 @@ I don't like this problem :( .
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/02/28 | Initial solution 😊 |  Python  |
+| 2022/02/28 |        5:19        |  Python  |
 
 ### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
