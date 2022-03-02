@@ -25,7 +25,7 @@ if __name__ == '__main__':
     print(solution_preferred.function(my_input))
 
     # Benchmarking
-    number = 100
+    number = 10_000
     my_input = None
     print(timeit.timeit(lambda: solution_initial.function(my_input), number=number))
     print(timeit.timeit(lambda: solution_preferred.function(my_input), number=number))
