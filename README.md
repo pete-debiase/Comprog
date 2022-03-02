@@ -52,6 +52,13 @@ I don't like this problem :( .
 | 2022/02/24 |       3:25       |  Python  |
 | 2022/02/27 |       2:05       |  Python  |
 
+### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+First time actually implementing binary search. Was difficult.
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/02 | Initial solution |  Python  |
+
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
 - numpy-based solution is surprisingly slow.
