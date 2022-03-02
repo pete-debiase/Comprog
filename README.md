@@ -126,6 +126,13 @@ Use two-pointer solution to take advantage of input array already being sorted.
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |       4:51       |  Python  |
 
+### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+A classic :) . Kind of hurts my brain though.
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/02 | Initial solution |  Python  |
+
 ### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
 
