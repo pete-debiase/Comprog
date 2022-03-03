@@ -127,6 +127,13 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 | 2022/02/05 |       3:12       |  Python  |
 | 2022/02/22 |   No solution    |  Python  |
 
+### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+Very similar to 33.
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/03 | Initial solution 😊 |  Python  |
+
 ### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 Use two-pointer solution to take advantage of input array already being sorted.
 
