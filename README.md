@@ -43,6 +43,7 @@ I don't like this problem :( .
 |:----------:|:----------------:|:--------:|
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |      10:00+      |  Python  |
+| 2022/03/02 |      10:00+      |  Python  |
 
 ### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
@@ -58,6 +59,7 @@ First time actually implementing binary search. Was difficult.
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/02 | Initial solution |  Python  |
+| 2022/03/02 |      10:00+      |  Python  |
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -125,6 +127,7 @@ Use two-pointer solution to take advantage of input array already being sorted.
 |:----------:|:----------------:|:--------:|
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |       4:51       |  Python  |
+| 2022/03/02 |       4:27       |  Python  |
 
 ### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 A classic :) . Kind of hurts my brain though.
@@ -132,6 +135,7 @@ A classic :) . Kind of hurts my brain though.
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/02 | Initial solution |  Python  |
+| 2022/03/02 |       5:21       |  Python  |
 
 ### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
