@@ -111,6 +111,13 @@ Very similar to 121.
 | 2022/02/05 |       4:09       |  Python  |
 | 2022/02/26 |       3:53       |  Python  |
 
+### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/03 | Initial solution 😊 |  Python  |
+
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 |    Date    |  Solution Time   | Language |
