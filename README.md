@@ -1,26 +1,26 @@
-# LeetCode
-Many devs complain about how technical interviews are so focused on quasi-esoteric LeetCode-style data structures and algorithms problems, but personally I think it's great. How wonderful to have such a big component of interviewing be such a well-defined little minigame :) .
+# Competitive Programming
+Like many devs, I got interested in competitive programming when I started preparing for technical interviews.
 
-I also happen to LOVE quasi-esoteric little life minigames, with Japanese (language) and [stenography](dummy_link) being two of my other favorites. Therefore, my new hobby and (tentative, maybe insane) goal is to solve ALL of the LeetCode problems.
+I am currently focusing on LeetCode. Although it's still early in the journey, my tentative long-term goal is to solve ALL of the LeetCode problems.
 
-I use Anki to manage my LeetCode study schedule and ensure that I remember how to solve past problems.
+I use [Anki](https://apps.ankiweb.net/) to manage my practice schedule and ensure that I remember how to solve past problems.
 
-Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/)!
+Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
 
 ## Contents
 <!-- MarkdownTOC levels="1,2" -->
 
-- [Solution Stats](#solution-stats)
+- [Solution Stats / Map](#solution-stats--map)
 - [Solution Records / Notes](#solution-records--notes)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
 ## Solution Stats
-|    Date    | Total Solved | Total Available |   Rank   |
-|:----------:|:------------:|:---------------:|:--------:|
-| 2022/01/08 |      0       |      2142       |   ???    |
-| 2022/02/24 |      9       |      2184       | ≈100,000 |
+|    Date    | Total Solved / Available (%) |   Rank   |
+|:----------:|:----------------------------:|:--------:|
+| 2022/02/24 |       9 / 2184 (0.4%)        | ≈100,000 |
+| 2022/01/08 |       0 / 2142 (0.0%)        |    —     |
 
 ## Solution Records / Notes
 Note: Initial solutions marked with 😊 indicate that I was able to implement at least one solution independently.
