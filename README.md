@@ -102,6 +102,7 @@ First time actually implementing binary search. Was difficult.
 |:----------:|:------------------:|:--------:|
 | 2022/02/28 | Initial solution 😊 |  Python  |
 | 2022/02/28 |        5:19        |  Python  |
+| 2022/03/04 |        4:48        |  Python  |
 
 ### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
@@ -137,6 +138,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/03 | Initial solution 😊 |  Python  |
+| 2022/03/04 |        8:05        |  Python  |
 
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -153,6 +155,7 @@ Very similar to 33.
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/03 | Initial solution 😊 |  Python  |
+| 2022/03/04 |        6:29        |  Python  |
 
 ### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 Use two-pointer solution to take advantage of input array already being sorted.
