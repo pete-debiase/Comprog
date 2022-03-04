@@ -4,8 +4,8 @@
 import os
 
 # Get list of solved problems
-directories = [name for name in os.listdir(".") if os.path.isdir(name)]
-directories.remove('.git')
+path = "Solutions/"
+directories = [_ for _ in os.listdir(path) if os.path.isdir(path + _)]
 
 # Massage list of solved problems into sorted dictionary
 problems = [_.split('. ') for _ in directories]
@@ -47,6 +47,6 @@ with open('README.md', 'r', encoding='utf-8') as file:
 data = data.split('<!-- Auto-generated content -->')
 data = [_.strip() for _ in data]
 data[1] = f'\n<!-- Auto-generated content -->\n{table}\n<!-- Auto-generated content -->\n'
-#
-with open('README.md', 'w+', encoding='utf-8') as file:
-    file.write('\n'.join(data))
+
+with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
+    file.write('\n'.join(data) + '\n')
