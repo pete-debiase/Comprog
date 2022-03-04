@@ -10,20 +10,39 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
 ## Contents
 <!-- MarkdownTOC levels="1,2" -->
 
-- [Solution Stats / Map](#solution-stats--map)
+- [Progress Overview](#progress-overview)
 - [Solution Records / Notes](#solution-records--notes)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## Solution Stats
+## Progress Overview
+### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
 | 2022/02/24 |       9 / 2184 (0.4%)        | ≈100,000 |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    —     |
 
+### Problem Map
+
+<!-- Auto-generated content -->
+<table>
+    <tr><td align="center"><a href="#1-two-sum">1</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#15-3sum">15</a></td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td align="center"><a href="#33-search-in-rotated-sorted-array">33</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td align="center"><a href="#48-rotate-image">48</a></td><td align="center"><a href="#49-group-anagrams">49</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#53-maximum-subarray">53</a></td><td>   </td><td>   </td><td align="center"><a href="#56-merge-intervals">56</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td align="center"><a href="#121-best-time-to-buy-and-sell-stock">121</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#141-linked-list-cycle">141</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td align="center"><a href="#152-maximum-product-subarray">152</a></td><td align="center"><a href="#153-find-minimum-in-rotated-sorted-array">153</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td align="center"><a href="#167-two-sum-ii">167</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
+</table>
+<!-- Auto-generated content -->
+
 ## Solution Records / Notes
-Note: Initial solutions marked with 😊 indicate that I was able to implement at least one solution independently.
+_Note: Initial solutions marked with_ 😊 _indicate that I was able to implement at least one solution independently._
 
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
