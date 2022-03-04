@@ -38,6 +38,7 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
 </table>
 <!-- Auto-generated content -->
 

@@ -18,17 +18,24 @@ row = []
 rows = []
 cells_per_row = 15
 max_problem = max(problems.keys())
-for i in range(1, max_problem):
+dummy_cell = '<td>   </td>'
+for i in range(1, max_problem + 1):
     if i in problems:
         cell = f'<td align="center"><a href="#{problems[i]}">{i}</a></td>'
     else:
-        cell = '<td>   </td>'
+        cell = dummy_cell
     row.append(cell)
     if i % cells_per_row == 0:
         row_HTML = f"    <tr>{''.join(row)}</tr>"
         if 'a href' in row_HTML:
             rows.append(row_HTML)
         row = []
+    elif i == max_problem:
+        if 'a href' in ''.join(row):
+            dummy_cells = [dummy_cell] * (cells_per_row - len(row))
+            row += dummy_cells
+            row_HTML = f"    <tr>{''.join(row)}</tr>"
+            rows.append(row_HTML)
 
 rows_HTML = '\n'.join(rows)
 table = f'<table>\n{rows_HTML}\n</table>'
