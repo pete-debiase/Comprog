@@ -1,7 +1,7 @@
 # Competitive Programming
 Like many devs, I got interested in competitive programming when I started prepping for technical interviews (circa 2022).
 
-Although it's still early in the game, my current long-term goal is to solve all of the problems on [LeetCode](https://leetcode.com/).
+Although it's still early in the game, my current long-term goal is to solve all the problems on [LeetCode](https://leetcode.com/).
 
 I use [Anki](https://apps.ankiweb.net/) to manage my practice schedule and ensure that I remember how to solve past problems.
 
@@ -68,7 +68,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/02/22 |      10:00+      |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
-I don't like this problem :( .
+I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -85,7 +85,7 @@ I don't like this problem :( .
 | 2022/02/27 |       2:05       |  Python  |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-First time actually implementing binary search. Was difficult.
+First time actually implementing binary search. Initially difficult, became second-nature over time.
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -107,7 +107,7 @@ First time actually implementing binary search. Was difficult.
 | 2022/02/26 |       2:24       |  Python  |
 
 #### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- In Python, use `collections.defaultdict` whenever you encounter a situation like this problem (building a hashmap where it is super convenient to have a default value automatically initialized for each key encountered).
+- In Python, use `collections.defaultdict` whenever you encounter a situation like this (building a hashmap where it's super convenient to have a default value automatically initialized for each key encountered).
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
@@ -116,7 +116,7 @@ First time actually implementing binary search. Was difficult.
 | 2022/03/04 |        4:48        |  Python  |
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-Very similar to 121.
+Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/).
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -134,6 +134,7 @@ Very similar to 121.
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
+    + But make the code so readable that it's worth it.
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -144,7 +145,7 @@ Very similar to 121.
 | 2022/02/26 |       3:53       |  Python  |
 
 #### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
+First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A fine algorithm :) .
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
@@ -161,7 +162,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 | 2022/02/22 |   No solution    |  Python  |
 
 #### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-Very similar to 33.
+Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
