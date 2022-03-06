@@ -54,7 +54,9 @@ My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
 - yyyy/mm/dd - Profit!
 
 ## Solution Records / Notes
-_Note: Initial solutions marked with_ 😊 _indicate that I was able to implement at least one solution independently._
+_Note_:
+- _Initial solutions marked with_ 🥶 _indicate that I was able to implement a non-optimal solution on my own._
+- _Initial solutions marked with_ 😊 _indicate that I was able to implement an optimal solution on my own._
 
 #### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
@@ -71,7 +73,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
-| 2022/03/06 | Initial solution 😊 |  Python  |
+| 2022/03/06 | Initial solution 🥶 |  Python  |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -163,7 +165,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
-| 2022/03/03 | Initial solution 😊 |  Python  |
+| 2022/03/03 | Initial solution 🥶 |  Python  |
 | 2022/03/04 |        8:05        |  Python  |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
