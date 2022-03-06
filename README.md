@@ -1,16 +1,19 @@
 # Competitive Programming
-Like many devs, I got interested in competitive programming when I started preparing for technical interviews.
+Like many devs, I got interested in competitive programming when I started prepping for technical interviews (circa 2022).
 
-I am currently focusing on LeetCode. Although it's still early in the journey, my tentative long-term goal is to solve ALL of the LeetCode problems.
+Although it's still early in the game, my current long-term goal is to solve all of the problems on [LeetCode](https://leetcode.com/).
 
 I use [Anki](https://apps.ankiweb.net/) to manage my practice schedule and ensure that I remember how to solve past problems.
 
-Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
+My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
 
 ## Contents
-<!-- MarkdownTOC levels="1,2" -->
+<!-- MarkdownTOC levels="1,2,3" -->
 
 - [Progress Overview](#progress-overview)
+    + [Stats](#stats)
+    + [Problems](#problems)
+    + [Milestones](#milestones)
 - [Solution Records / Notes](#solution-records--notes)
 
 <!-- /MarkdownTOC -->
@@ -20,10 +23,11 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
 ### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
-| 2022/02/24 |       9 / 2184 (0.4%)        | ≈100,000 |
-| 2022/01/08 |       0 / 2142 (0.0%)        |    —     |
+|   Latest   |      17 / 2197 (0.8%)        | ~100,000 |
+| 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
+| 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
 
-### Problem Map
+### Problems
 
 <!-- Auto-generated content -->
 <table>
@@ -42,10 +46,17 @@ Here is a link to my [LeetCode profile](https://leetcode.com/pete-debiase/) :) .
 </table>
 <!-- Auto-generated content -->
 
+### Milestones
+- yyyy/mm/dd - Finished [Blind 50](https://www.techinterviewhandbook.org/best-practice-questions).
+- yyyy/mm/dd - Finished [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
+- yyyy/mm/dd - Finished [Grokking equivalency list](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4).
+- yyyy/mm/dd - ???
+- yyyy/mm/dd - Profit
+
 ## Solution Records / Notes
 _Note: Initial solutions marked with_ 😊 _indicate that I was able to implement at least one solution independently._
 
-### [1. Two Sum](https://leetcode.com/problems/two-sum/)
+#### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
 
 |    Date    |  Solution Time   | Language |
@@ -56,7 +67,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/01/31 |       1:59       |  Python  |
 | 2022/02/22 |      10:00+      |  Python  |
 
-### [15. 3Sum](https://leetcode.com/problems/3sum/)
+#### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( .
 
 |    Date    |  Solution Time   | Language |
@@ -65,7 +76,7 @@ I don't like this problem :( .
 | 2022/02/28 |      10:00+      |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
 
-### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+#### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -73,7 +84,7 @@ I don't like this problem :( .
 | 2022/02/24 |       3:25       |  Python  |
 | 2022/02/27 |       2:05       |  Python  |
 
-### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+#### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 First time actually implementing binary search. Was difficult.
 
 |    Date    |  Solution Time   | Language |
@@ -81,7 +92,7 @@ First time actually implementing binary search. Was difficult.
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
 
-### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+#### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
 - numpy-based solution is surprisingly slow.
 
@@ -95,7 +106,7 @@ First time actually implementing binary search. Was difficult.
 | 2022/02/11 |       1:59       |  Python  |
 | 2022/02/26 |       2:24       |  Python  |
 
-### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+#### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - In Python, use `collections.defaultdict` whenever you encounter a situation like this problem (building a hashmap where it is super convenient to have a default value automatically initialized for each key encountered).
 
 |    Date    |   Solution Time    | Language |
@@ -104,7 +115,7 @@ First time actually implementing binary search. Was difficult.
 | 2022/02/28 |        5:19        |  Python  |
 | 2022/03/04 |        4:48        |  Python  |
 
-### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+#### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to 121.
 
 |    Date    |  Solution Time   | Language |
@@ -114,14 +125,14 @@ Very similar to 121.
 | 2022/02/04 |       3:01       |  Python  |
 | 2022/02/22 |       5:15       |  Python  |
 
-### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+#### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/02/28 | Initial solution |  Python  |
 | 2022/03/01 |       5:50       |  Python  |
 
-### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+#### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
 
 |    Date    |  Solution Time   | Language |
@@ -132,7 +143,7 @@ Very similar to 121.
 | 2022/02/05 |       4:09       |  Python  |
 | 2022/02/26 |       3:53       |  Python  |
 
-### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+#### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 
 |    Date    |   Solution Time    | Language |
@@ -140,7 +151,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 | 2022/03/03 | Initial solution 😊 |  Python  |
 | 2022/03/04 |        8:05        |  Python  |
 
-### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+#### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -149,7 +160,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare).
 | 2022/02/05 |       3:12       |  Python  |
 | 2022/02/22 |   No solution    |  Python  |
 
-### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+#### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 Very similar to 33.
 
 |    Date    |   Solution Time    | Language |
@@ -157,7 +168,7 @@ Very similar to 33.
 | 2022/03/03 | Initial solution 😊 |  Python  |
 | 2022/03/04 |        6:29        |  Python  |
 
-### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+#### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 Use two-pointer solution to take advantage of input array already being sorted.
 
 |    Date    |  Solution Time   | Language |
@@ -166,7 +177,7 @@ Use two-pointer solution to take advantage of input array already being sorted.
 | 2022/02/28 |       4:51       |  Python  |
 | 2022/03/02 |       4:27       |  Python  |
 
-### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+#### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 A classic :) . Kind of hurts my brain though.
 
 |    Date    |  Solution Time   | Language |
@@ -174,7 +185,7 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |       5:21       |  Python  |
 
-### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+#### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
 
 |    Date    |  Solution Time   | Language |
@@ -184,7 +195,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/01/29 |       1:29       |  Python  |
 | 2022/02/22 |       1:59       |  Python  |
 
-### [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+#### [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
@@ -195,7 +206,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/11 |       6:09       |  Python  |
 | 2022/02/26 |       4:25       |  Python  |
 
-### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+#### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - In Python:
     + `collections.defaultdict` is a special dictionary that automatically initializes a value the first time a key is encountered.
     + `collections.Counter` object can be used to solve this problem in one line.
