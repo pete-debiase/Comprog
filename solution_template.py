@@ -4,14 +4,12 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity:
-    # Space Complexity:
+    # Time / Space Complexity:
     def function(self) -> None:
         pass
 
 class SolutionPreferred:
-    # Time Complexity:
-    # Space Complexity:
+    # Time / Space Complexity:
     def function(self) -> None:
         pass
 
