@@ -139,6 +139,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/01/31 |       2:41       |  Python  |
 | 2022/02/04 |       3:01       |  Python  |
 | 2022/02/22 |       5:15       |  Python  |
+| 2022/03/06 |       3:05       |  Python  |
 
 #### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
@@ -167,6 +168,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 |:----------:|:------------------:|:--------:|
 | 2022/03/03 | Initial solution 🥶 |  Python  |
 | 2022/03/04 |        8:05        |  Python  |
+| 2022/03/06 |        4:59        |  Python  |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -184,6 +186,7 @@ Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/proble
 |:----------:|:------------------:|:--------:|
 | 2022/03/03 | Initial solution 😊 |  Python  |
 | 2022/03/04 |        6:29        |  Python  |
+| 2022/03/06 |        3:38        |  Python  |
 
 #### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 Use two-pointer solution to take advantage of input array already being sorted.
