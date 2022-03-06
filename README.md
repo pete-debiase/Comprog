@@ -23,7 +23,7 @@ My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
 ### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
-|   Latest   |      17 / 2197 (0.8%)        | ~100,000 |
+|   Latest   |       17 / 2197 (0.8%)       | ~100,000 |
 | 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
 
@@ -51,7 +51,7 @@ My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
 - yyyy/mm/dd - Finished [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 - yyyy/mm/dd - Finished [Grokking equivalency list](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4).
 - yyyy/mm/dd - ???
-- yyyy/mm/dd - Profit
+- yyyy/mm/dd - Profit!
 
 ## Solution Records / Notes
 _Note: Initial solutions marked with_ 😊 _indicate that I was able to implement at least one solution independently._
@@ -91,6 +91,7 @@ First time actually implementing binary search. Initially difficult, became seco
 |:----------:|:----------------:|:--------:|
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
+| 2022/03/06 |   No solution    |  Python  |
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -131,6 +132,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 |:----------:|:----------------:|:--------:|
 | 2022/02/28 | Initial solution |  Python  |
 | 2022/03/01 |       5:50       |  Python  |
+| 2022/03/06 |       7:54       |  Python  |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -185,6 +187,7 @@ A classic :) . Kind of hurts my brain though.
 |:----------:|:----------------:|:--------:|
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |       5:21       |  Python  |
+| 2022/03/06 |       4:16       |  Python  |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
