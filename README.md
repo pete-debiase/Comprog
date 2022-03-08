@@ -1,9 +1,7 @@
 # Competitive Programming
-I am hooked on competitive programming. My current long-term goal is to solve all of the problems on [LeetCode](https://leetcode.com/).
+I enjoy coding puzzles. My current goal is to solve all of the problems on LeetCode - [my LeetCode profile 🧐](https://leetcode.com/pete-debiase/).
 
-I use [Anki](https://apps.ankiweb.net/) to manage my practice schedule and ensure that I remember how to solve past problems.
-
-My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
+I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice re-solving past problems.
 
 ## Contents
 <!-- MarkdownTOC levels="1,2,3" -->
