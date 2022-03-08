@@ -74,12 +74,14 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/06 | Initial solution 🥶 |  Python  |
+| 2022/03/07 |        3:26        |  Python  |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/06 | Initial solution |  Python  |
+| 2022/03/07 |       4:38       |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -97,6 +99,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/23 | Initial solution |  Python  |
 | 2022/02/24 |       3:25       |  Python  |
 | 2022/02/27 |       2:05       |  Python  |
+| 2022/03/07 |       5:24       |  Python  |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 First time actually implementing binary search. Initially difficult, became second-nature over time.
@@ -106,6 +109,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
 | 2022/03/06 |   No solution    |  Python  |
+| 2022/03/07 |       5:24       |  Python  |
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
