@@ -32,7 +32,7 @@ My [LeetCode profile](https://leetcode.com/pete-debiase/) 🧐 .
 <!-- Auto-generated content -->
 <table>
     <tr><td align="center"><a href="#1-two-sum">1</a></td><td>   </td><td align="center"><a href="#3-longest-substring-without-repeating-characters">3</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#11-container-with-most-water">11</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#15-3sum">15</a></td></tr>
-    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#19-remove-nth-node-from-end-of-list">19</a></td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#33-search-in-rotated-sorted-array">33</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#48-rotate-image">48</a></td><td align="center"><a href="#49-group-anagrams">49</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#53-maximum-subarray">53</a></td><td>   </td><td>   </td><td align="center"><a href="#56-merge-intervals">56</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td align="center"><a href="#121-best-time-to-buy-and-sell-stock">121</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -91,6 +91,12 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |      10:00+      |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
+
+#### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/07 | Initial solution |  Python  |
 
 #### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
