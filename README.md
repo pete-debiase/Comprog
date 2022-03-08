@@ -1,7 +1,5 @@
 # Competitive Programming
-Like many devs, I got interested in competitive programming when I started prepping for technical interviews (circa 2022).
-
-Although it's still early in the game, my current long-term goal is to solve all the problems on [LeetCode](https://leetcode.com/).
+I am hooked on competitive programming. My current long-term goal is to solve all of the problems on [LeetCode](https://leetcode.com/).
 
 I use [Anki](https://apps.ankiweb.net/) to manage my practice schedule and ensure that I remember how to solve past problems.
 
