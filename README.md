@@ -39,6 +39,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
 </table>
 <!-- Auto-generated content -->
 
@@ -258,3 +259,9 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/02/07 | Initial solution |  Python  |
 | 2022/02/22 |       2:29       |  Python  |
+
+#### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/09 | Initial solution 😶 |  Python  |
