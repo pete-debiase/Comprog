@@ -35,7 +35,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#141-linked-list-cycle">141</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#152-maximum-product-subarray">152</a></td><td align="center"><a href="#153-find-minimum-in-rotated-sorted-array">153</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#167-two-sum-ii">167</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
-    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#200-number-of-islands">200</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -211,6 +211,13 @@ Use two-pointer solution to take advantage of input array already being sorted.
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |       4:51       |  Python  |
 | 2022/03/02 |       4:27       |  Python  |
+
+#### [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+First time encountering DFS. What a neat algo 🤓 .
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/08 | Initial solution |  Python  |
 
 #### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 A classic :) . Kind of hurts my brain though.
