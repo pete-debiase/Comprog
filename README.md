@@ -78,6 +78,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/07 | Initial solution 😊 |  Python  |
+| 2022/03/08 |        1:29        |  Python  |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -100,6 +101,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/07 | Initial solution |  Python  |
+| 2022/03/08 |       1:57       |  Python  |
 
 #### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
