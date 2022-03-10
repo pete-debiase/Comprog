@@ -72,6 +72,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 |:----------:|:------------------:|:--------:|
 | 2022/03/06 | Initial solution 😶 |  Python  |
 | 2022/03/07 |        3:26        |  Python  |
+| 2022/03/10 |    No solution     |  Python  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
@@ -87,6 +88,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 |:----------:|:----------------:|:--------:|
 | 2022/03/06 | Initial solution |  Python  |
 | 2022/03/07 |       4:38       |  Python  |
+| 2022/03/10 |       4:01       |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -97,6 +99,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/28 |      10:00+      |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
 | 2022/03/10 |   No solution    |  Python  |
+| 2022/03/10 |       4:55       |  Python  |
 
 #### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -123,6 +126,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/02 |      10:00+      |  Python  |
 | 2022/03/06 |   No solution    |  Python  |
 | 2022/03/07 |       5:24       |  Python  |
+| 2022/03/10 |       3:55       |  Python  |
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -166,6 +170,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/02/28 | Initial solution |  Python  |
 | 2022/03/01 |       5:50       |  Python  |
 | 2022/03/06 |       7:54       |  Python  |
+| 2022/03/10 |       4:10       |  Python  |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
