@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
-|   Latest   |       21 / 2197 (1.0%)       | ~100,000 |
+|   Latest   |       23 / 2197 (1.0%)       | ~100,000 |
 | 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
 
@@ -96,6 +96,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |      10:00+      |  Python  |
 | 2022/03/02 |      10:00+      |  Python  |
+| 2022/03/10 |   No solution    |  Python  |
 
 #### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -145,6 +146,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/02/28 | Initial solution 😊 |  Python  |
 | 2022/02/28 |        5:19        |  Python  |
 | 2022/03/04 |        4:48        |  Python  |
+| 2022/03/10 |        4:33        |  Python  |
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/).
@@ -212,6 +214,7 @@ Use two-pointer solution to take advantage of input array already being sorted.
 | 2022/02/27 | Initial solution |  Python  |
 | 2022/02/28 |       4:51       |  Python  |
 | 2022/03/02 |       4:27       |  Python  |
+| 2022/03/10 |       3:53       |  Python  |
 
 #### [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 First time encountering DFS. What a neat algo 🤓 .
@@ -219,6 +222,7 @@ First time encountering DFS. What a neat algo 🤓 .
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/08 | Initial solution |  Python  |
+| 2022/03/10 |       6:40       |  Python  |
 
 #### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 A classic :) . Kind of hurts my brain though.

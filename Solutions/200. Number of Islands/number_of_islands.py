@@ -15,7 +15,7 @@ class Solution:
                     count += 1
         return count
 
-    def _dfs(self, grid, i, j):
+    def _dfs(self, grid: list[list[str]], i: int, j: int) -> None:
         m, n = len(grid), len(grid[0])
         is_oob_or_nonland = (i < 0 or i >= m or j < 0 or j >= n) or (grid[i][j] != '1')
         if is_oob_or_nonland:
