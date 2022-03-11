@@ -27,7 +27,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 
 <!-- Auto-generated content -->
 <table>
-    <tr><td align="center"><a href="#1-two-sum">1</a></td><td>   </td><td align="center"><a href="#3-longest-substring-without-repeating-characters">3</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#9-palindrome-number">9</a></td><td>   </td><td align="center"><a href="#11-container-with-most-water">11</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#15-3sum">15</a></td></tr>
+    <tr><td align="center"><a href="#1-two-sum">1</a></td><td>   </td><td align="center"><a href="#3-longest-substring-without-repeating-characters">3</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#9-palindrome-number">9</a></td><td>   </td><td align="center"><a href="#11-container-with-most-water">11</a></td><td>   </td><td>   </td><td align="center"><a href="#14-longest-common-prefix">14</a></td><td align="center"><a href="#15-3sum">15</a></td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#19-remove-nth-node-from-end-of-list">19</a></td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#33-search-in-rotated-sorted-array">33</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#48-rotate-image">48</a></td><td align="center"><a href="#49-group-anagrams">49</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#53-maximum-subarray">53</a></td><td>   </td><td>   </td><td align="center"><a href="#56-merge-intervals">56</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -89,6 +89,12 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 | 2022/03/06 | Initial solution |  Python  |
 | 2022/03/07 |       4:38       |  Python  |
 | 2022/03/10 |       4:01       |  Python  |
+
+#### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/10 | Initial solution 😶 |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
