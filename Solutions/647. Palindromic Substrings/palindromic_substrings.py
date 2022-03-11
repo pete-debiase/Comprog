@@ -6,12 +6,11 @@ import timeit
 class SolutionInitial:
     # Time / Space Complexity: O(n^3), O(1)
     def countSubstrings(self, string: str) -> int:
-        n, count = len(string) + 1, 0
+        count, n = 0, len(string) + 1
         for i in range(n):
             for j in range(i + 1, n):
                 substring = string[i:j]
-                if self._is_palindrome(substring):
-                    count += 1
+                if self._is_palindrome(substring): count += 1
         return count
 
     def _is_palindrome(self, string: str) -> bool:
@@ -21,7 +20,21 @@ class SolutionInitial:
 class SolutionPreferred:
     # Time / Space Complexity: O(n^2), O(1)
     def countSubstrings(self, string: str) -> int:
-        pass
+        count = 0
+        for i in range(len(string)):
+            count += self._count_palindromes_around_center(string, i, i)
+            count += self._count_palindromes_around_center(string, i, i + 1)
+        return count
+
+    def _count_palindromes_around_center(self, string: str, left: int, right: int) -> int:
+        count = 0
+        while left >= 0 and right < len(string):
+            if string[left] != string[right]: break
+            left -= 1
+            right += 1
+            count += 1
+        return count
+
 
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
@@ -38,7 +51,7 @@ if __name__ == '__main__':
     print(solution_preferred.countSubstrings(string))
 
     # Benchmarking
-    number = 10_000
-    string = "aaa"
+    number = 1_000
+    string = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus, ligula et hendrerit mollis, augue nibh tristique eros, sed vulputate."
     print(timeit.timeit(lambda: solution_initial.countSubstrings(string), number=number))
     print(timeit.timeit(lambda: solution_preferred.countSubstrings(string), number=number))
