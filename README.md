@@ -74,6 +74,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/03/06 | Initial solution 😶 |  Python  |
 | 2022/03/07 |        3:26        |  Python  |
 | 2022/03/10 |    No solution     |  Python  |
+| 2022/03/12 |    No solution     |  Python  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
@@ -82,6 +83,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 |:----------:|:------------------:|:--------:|
 | 2022/03/07 | Initial solution 😊 |  Python  |
 | 2022/03/08 |        1:29        |  Python  |
+| 2022/03/12 |        1:23        |  Python  |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -96,6 +98,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/10 | Initial solution 😶 |  Python  |
+| 2022/03/12 |        2:05        |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -114,6 +117,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 |:----------:|:----------------:|:--------:|
 | 2022/03/07 | Initial solution |  Python  |
 | 2022/03/08 |       1:57       |  Python  |
+| 2022/03/12 |       2:05       |  Python  |
 
 #### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
@@ -281,9 +285,11 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/10 | Initial solution |  Python  |
+| 2022/03/12 |      13:11       |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/09 | Initial solution 😶 |  Python  |
+| 2022/03/12 |    No solution     |  Python  |
