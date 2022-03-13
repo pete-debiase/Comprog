@@ -76,6 +76,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/03/07 |        3:26        |  Python  |
 | 2022/03/10 |    No solution     |  Python  |
 | 2022/03/12 |    No solution     |  Python  |
+| 2022/03/12 |        3:48        |  Python  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
@@ -197,6 +198,7 @@ Always test algo in real use case. Here, using 'sort()' in algo with non-optimal
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/12 | Initial solution 😶 |  Python  |
+| 2022/03/12 |        4:05        |  Python  |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -308,3 +310,4 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:------------------:|:--------:|
 | 2022/03/09 | Initial solution 😶 |  Python  |
 | 2022/03/12 |    No solution     |  Python  |
+| 2022/03/12 |        6:49        |  Python  |
