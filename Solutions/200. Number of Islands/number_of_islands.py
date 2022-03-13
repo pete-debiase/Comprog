@@ -52,9 +52,34 @@ class SolutionAlternate:
                     count += 1
         return count
 
+class SolutionAlternate2:
+    def numIslands(self, grid: list[list[str]]) -> int:
+        if not grid or not grid[0]: return 0
+        count, m, n = 0, len(grid), len(grid[0])
+
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == '1':
+                    self._dfs(grid, i, j)
+                    count += 1
+        return count
+
+    def _dfs(self, grid: list[list[str]], i: int, j: int):
+        if grid[i][j] == '#': return
+        grid[i][j] = '#'
+
+        m, n = len(grid), len(grid[0])
+        deltas = ((1, 0), (-1, 0), (0, 1), (0, -1))
+        for di, dj in deltas:
+            i_next, j_next = i + di, j + dj
+            is_in_bounds = (0 <= i_next < m) and (0 <= j_next < n)
+            if is_in_bounds and grid[i_next][j_next] == '1':
+                self._dfs(grid, i_next, j_next)
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_alternate = SolutionAlternate()
+    solution_alternate2 = SolutionAlternate2()
 
     # Example 1 (Expected Output: 1)
     grid = [['1', '1', '1', '1', '0'],
@@ -62,8 +87,10 @@ if __name__ == '__main__':
             ['1', '1', '0', '0', '0'],
             ['0', '0', '0', '0', '0']]
     grid2 = deepcopy(grid)
+    grid3 = deepcopy(grid)
     print(solution_initial.numIslands(grid))
     print(solution_alternate.numIslands(grid2))
+    print(solution_alternate.numIslands(grid3))
 
     # Example 2 (Expected Output: 3)
     grid = [['1', '1', '0', '0', '0'],
@@ -71,8 +98,10 @@ if __name__ == '__main__':
             ['0', '0', '1', '0', '0'],
             ['0', '0', '0', '1', '1']]
     grid2 = deepcopy(grid)
+    grid3 = deepcopy(grid)
     print(solution_initial.numIslands(grid))
     print(solution_alternate.numIslands(grid2))
+    print(solution_alternate.numIslands(grid3))
 
     # Benchmarking
     number = 100_000
@@ -81,5 +110,7 @@ if __name__ == '__main__':
             ['0', '0', '1', '0', '0'],
             ['0', '0', '0', '1', '1']]
     grid2 = deepcopy(grid)
+    grid3 = deepcopy(grid)
     print(timeit.timeit(lambda: solution_initial.numIslands(grid), number=number))
     print(timeit.timeit(lambda: solution_alternate.numIslands(grid2), number=number))
+    print(timeit.timeit(lambda: solution_alternate.numIslands(grid3), number=number))

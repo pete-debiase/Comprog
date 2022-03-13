@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
-|   Latest   |       25 / 2199 (1.1%)       | ~100,000 |
+|   Latest   |       27 / 2199 (1.2%)       | ~100,000 |
 | 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
 
@@ -256,6 +256,7 @@ First time encountering DFS. What a neat algo 🤓 .
 |:----------:|:----------------:|:--------:|
 | 2022/03/08 | Initial solution |  Python  |
 | 2022/03/10 |       6:40       |  Python  |
+| 2022/03/12 |       9:32       |  Python  |
 
 #### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 A classic :) . Kind of hurts my brain though.
