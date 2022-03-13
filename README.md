@@ -31,7 +31,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#19-remove-nth-node-from-end-of-list">19</a></td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#33-search-in-rotated-sorted-array">33</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#48-rotate-image">48</a></td><td align="center"><a href="#49-group-anagrams">49</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#53-maximum-subarray">53</a></td><td>   </td><td>   </td><td align="center"><a href="#56-merge-intervals">56</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
-    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#88-merge-sorted-array">88</a></td><td>   </td><td>   </td></tr>
+    <tr><td align="center"><a href="#76-minimum-window-substring">76</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#88-merge-sorted-array">88</a></td><td>   </td><td>   </td></tr>
     <tr><td align="center"><a href="#121-best-time-to-buy-and-sell-stock">121</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#141-linked-list-cycle">141</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#152-maximum-product-subarray">152</a></td><td align="center"><a href="#153-find-minimum-in-rotated-sorted-array">153</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -183,6 +183,13 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/03/01 |       5:50       |  Python  |
 | 2022/03/06 |       7:54       |  Python  |
 | 2022/03/10 |       4:10       |  Python  |
+
+#### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+So hard. This problem makes me feel like I'm not cut out to be a software engineer 😢 .
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/12 | Initial solution |  Python  |
 
 #### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 Always test algo in real use case. Here, using 'sort()' in algo with non-optimal time complexity yields faster results because 'sort()' is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
