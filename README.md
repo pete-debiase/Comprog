@@ -36,7 +36,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#141-linked-list-cycle">141</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#152-maximum-product-subarray">152</a></td><td align="center"><a href="#153-find-minimum-in-rotated-sorted-array">153</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#167-two-sum-ii">167</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
-    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#200-number-of-islands">200</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#200-number-of-islands">200</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#206-reverse-linked-list">206</a></td><td>   </td><td>   </td><td align="center"><a href="#209-minimum-size-subarray-sum">209</a></td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -271,6 +271,12 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |       5:21       |  Python  |
 | 2022/03/06 |       4:16       |  Python  |
+
+#### [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/13 | Initial solution 😶 |  Python  |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
