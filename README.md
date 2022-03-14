@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |   Rank   |
 |:----------:|:----------------------------:|:--------:|
-|   Latest   |       27 / 2199 (1.2%)       | ~100,000 |
+|   Latest   |       29 / 2203 (1.3%)       | ~100,000 |
 | 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
 
@@ -41,6 +41,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#417-pacific-atlantic-water-flow">417</a></td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#424-longest-repeating-character-replacement">424</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
 </table>
 <!-- Auto-generated content -->
@@ -315,6 +316,12 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/03/10 | Initial solution |  Python  |
 | 2022/03/12 |      13:11       |  Python  |
+
+#### [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/14 | Initial solution |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
