@@ -26,6 +26,7 @@ class SolutionPreferred:
             prefix += chars[0]
         return prefix
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

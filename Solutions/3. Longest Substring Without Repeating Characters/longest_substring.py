@@ -37,6 +37,7 @@ class SolutionPreferred:
             char_indexes[c] = right
         return (length_max, substring)
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

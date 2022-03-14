@@ -15,6 +15,7 @@ class SolutionInitial:
             elif sum > target: i_hi -= 1
         return []
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
 

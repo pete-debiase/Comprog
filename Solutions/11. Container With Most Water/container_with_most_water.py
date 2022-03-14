@@ -26,6 +26,7 @@ class SolutionPreferred:
             else: hi -= 1
         return area_max
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

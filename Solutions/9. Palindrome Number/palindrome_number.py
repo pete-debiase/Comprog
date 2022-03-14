@@ -21,6 +21,7 @@ class SolutionAlternate:
             n //= 10
         return x == rev
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_alternate = SolutionAlternate()

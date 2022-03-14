@@ -33,6 +33,7 @@ class SolutionPreferred:
                 merged[-1][1] = max(merged[-1][1], interval[1])
         return merged
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

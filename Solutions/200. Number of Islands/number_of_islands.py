@@ -76,6 +76,7 @@ class SolutionAlternate2:
             if is_in_bounds and grid[i_next][j_next] == '1':
                 self._dfs(grid, i_next, j_next)
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_alternate = SolutionAlternate()

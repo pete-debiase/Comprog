@@ -69,6 +69,7 @@ class SolutionPreferred:
         dual_riverheads = list(visited_pacific & visited_atlantic)
         return dual_riverheads
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

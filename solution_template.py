@@ -13,6 +13,7 @@ class SolutionPreferred:
     def function(self) -> None:
         pass
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_preferred = SolutionPreferred()

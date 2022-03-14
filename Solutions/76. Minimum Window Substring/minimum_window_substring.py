@@ -29,6 +29,7 @@ class SolutionInitial:
 
         return substring
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
 
