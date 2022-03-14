@@ -112,6 +112,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/02 |      10:00+      |  Python  |
 | 2022/03/10 |   No solution    |  Python  |
 | 2022/03/10 |       4:55       |  Python  |
+| 2022/03/13 |       9:30       |  Python  |
 
 #### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -191,6 +192,7 @@ So hard. This problem makes me feel like I'm not cut out to be a software engine
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/12 | Initial solution |  Python  |
+| 2022/03/13 |       6:04       |  Python  |
 
 #### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 Always test algo in real use case. Here, using 'sort()' in algo with non-optimal time complexity yields faster results because 'sort()' is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
@@ -199,6 +201,7 @@ Always test algo in real use case. Here, using 'sort()' in algo with non-optimal
 |:----------:|:------------------:|:--------:|
 | 2022/03/12 | Initial solution 😶 |  Python  |
 | 2022/03/12 |        4:05        |  Python  |
+| 2022/03/13 |        2:29        |  Python  |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -220,6 +223,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/03/03 | Initial solution 😶 |  Python  |
 | 2022/03/04 |        8:05        |  Python  |
 | 2022/03/06 |        4:59        |  Python  |
+| 2022/03/13 |        7:11        |  Python  |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -238,6 +242,7 @@ Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/proble
 | 2022/03/03 | Initial solution 😊 |  Python  |
 | 2022/03/04 |        6:29        |  Python  |
 | 2022/03/06 |        3:38        |  Python  |
+| 2022/03/13 |        4:39        |  Python  |
 
 #### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 Use two-pointer solution to take advantage of input array already being sorted.
