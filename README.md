@@ -17,11 +17,11 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 
 ## Progress Overview
 ### Stats
-|    Date    | Total Solved / Available (%) |   Rank   |
-|:----------:|:----------------------------:|:--------:|
-|   Latest   |       31 / 2203 (1.4%)       | 921,742  |
-| 2022/02/24 |       9 / 2184 (0.4%)        | ~100,000 |
-| 2022/01/08 |       0 / 2142 (0.0%)        |    –     |
+|    Date    | Total Solved / Available (%) |  Rank   |
+|:----------:|:----------------------------:|:-------:|
+|   Latest   |       31 / 2203 (1.4%)       | 921,742 |
+| 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
+| 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
 ### Problems
 
@@ -49,8 +49,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 <!-- Auto-generated content -->
 
 ### Milestones
-- yyyy/mm/dd - Finished [Blind 50](https://www.techinterviewhandbook.org/best-practice-questions).
-- yyyy/mm/dd - Finished [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
+- yyyy/mm/dd - Finished [Blind 50](https://www.techinterviewhandbook.org/best-practice-questions) / [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 - yyyy/mm/dd - Finished [Grokking equivalency list](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4).
 - yyyy/mm/dd - ???
 - yyyy/mm/dd - Profit!
