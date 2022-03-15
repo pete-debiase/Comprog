@@ -102,6 +102,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 |:----------:|:------------------:|:--------:|
 | 2022/03/10 | Initial solution 😶 |  Python  |
 | 2022/03/12 |        2:05        |  Python  |
+| 2022/03/14 |        2:02        |  Python  |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/)
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -177,6 +178,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/02/04 |       3:01       |  Python  |
 | 2022/02/22 |       5:15       |  Python  |
 | 2022/03/06 |       3:05       |  Python  |
+| 2022/03/14 |       3:02       |  Python  |
 
 #### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
@@ -225,6 +227,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/03/04 |        8:05        |  Python  |
 | 2022/03/06 |        4:59        |  Python  |
 | 2022/03/13 |        7:11        |  Python  |
+| 2022/03/14 |        1:21        |  Python  |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -272,12 +275,14 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/02 | Initial solution |  Python  |
 | 2022/03/02 |       5:21       |  Python  |
 | 2022/03/06 |       4:16       |  Python  |
+| 2022/03/14 |   No solution    |  Python  |
 
 #### [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/13 | Initial solution 😶 |  Python  |
+| 2022/03/14 |        3:33        |  Python  |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -316,12 +321,14 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/03/10 | Initial solution |  Python  |
 | 2022/03/12 |      13:11       |  Python  |
+| 2022/03/14 |       7:40       |  Python  |
 
 #### [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/14 | Initial solution |  Python  |
+| 2022/03/14 |       3:04       |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
