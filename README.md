@@ -40,6 +40,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#217-contains-duplicate">217</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#238-product-of-array-except-self">238</a></td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#242-valid-anagram">242</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters">340</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#417-pacific-atlantic-water-flow">417</a></td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#424-longest-repeating-character-replacement">424</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
@@ -314,6 +315,12 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/02/07 | Initial solution |  Python  |
 | 2022/02/22 |       2:29       |  Python  |
+
+#### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/14 | Initial solution 😊 |  Python  |
 
 #### [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 
