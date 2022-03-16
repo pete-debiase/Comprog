@@ -79,6 +79,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/03/10 |    No solution     |  Python  |
 | 2022/03/12 |    No solution     |  Python  |
 | 2022/03/12 |        3:48        |  Python  |
+| 2022/03/15 |        4:25        |  Python  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
@@ -277,6 +278,7 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/02 |       5:21       |  Python  |
 | 2022/03/06 |       4:16       |  Python  |
 | 2022/03/14 |   No solution    |  Python  |
+| 2022/03/15 |       1:39       |  Python  |
 
 #### [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
@@ -321,6 +323,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/14 | Initial solution 😊 |  Python  |
+| 2022/03/15 |        2:55        |  Python  |
 
 #### [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 
@@ -344,6 +347,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/03/09 | Initial solution 😶 |  Python  |
 | 2022/03/12 |    No solution     |  Python  |
 | 2022/03/12 |        6:49        |  Python  |
+| 2022/03/15 |       11:28        |  Python  |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
@@ -351,3 +355,4 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/14 | Initial solution 😶 |  Python  |
+| 2022/03/15 |        2:56        |  Python  |
