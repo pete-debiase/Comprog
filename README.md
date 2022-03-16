@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       31 / 2203 (1.4%)       | 921,742 |
+|   Latest   |       33 / 2203 (1.4%)       | 877,403 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
@@ -43,6 +43,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters">340</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#417-pacific-atlantic-water-flow">417</a></td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#424-longest-repeating-character-replacement">424</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#567-permutation-in-string">567</a></td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#904-fruit-into-baskets">904</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#1004-max-consecutive-ones-iii">1004</a></td><td>   </td></tr>
@@ -340,6 +341,13 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/03/14 | Initial solution |  Python  |
 | 2022/03/14 |       3:04       |  Python  |
+
+#### [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+Battled for this one. Took 8+ hours to get a solution I was happy with. Also "permutation" can be a synonym for "anagram".
+
+|    Date    |  Solution Time   | Language |
+|:----------:|:----------------:|:--------:|
+| 2022/03/16 | Initial solution |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
