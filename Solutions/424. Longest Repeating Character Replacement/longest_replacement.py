@@ -5,7 +5,7 @@ from collections import defaultdict
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n), O(n)
+    # Time / Space: O(n) / O(n)
     def characterReplacement(self, s: str, k: int) -> int:
         i = most_uses = 0
         counts = defaultdict(int)

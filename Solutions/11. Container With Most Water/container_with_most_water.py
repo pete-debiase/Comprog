@@ -15,7 +15,7 @@ class SolutionInitial:
         return max_area
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def maxArea(self, heights: list[int]) -> int:
         area_max, lo, hi = 0, 0, len(heights) - 1
         while lo < hi:

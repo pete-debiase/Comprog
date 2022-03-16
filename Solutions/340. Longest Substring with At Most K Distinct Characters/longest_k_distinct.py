@@ -5,7 +5,7 @@ import timeit
 from collections import defaultdict
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n), O(k)
+    # Time / Space: O(n) / O(k)
     def lengthOfLongestSubstringKDistinct(self, s: str, k: int) -> int:
         i, counts = 0, defaultdict(int)
         for j in range(len(s)):

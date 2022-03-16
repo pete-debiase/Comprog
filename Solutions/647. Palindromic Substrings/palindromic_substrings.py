@@ -4,7 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n^3), O(1)
+    # Time / Space: O(n^3) / O(1)
     def countSubstrings(self, string: str) -> int:
         count, n = 0, len(string) + 1
         for i in range(n):
@@ -18,7 +18,7 @@ class SolutionInitial:
         return string == backwards
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n^2), O(1)
+    # Time / Space: O(n^2) / O(1)
     def countSubstrings(self, string: str) -> int:
         count = 0
         for i in range(len(string)):

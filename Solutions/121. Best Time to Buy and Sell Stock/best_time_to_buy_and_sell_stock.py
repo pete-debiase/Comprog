@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n^2)
-    # Space Complexity: O(1)
+    # Time / Space: O(n^2) / O(1)
     def maxProfit(self, prices: list[int]) -> int:
         max_profit = 0
         for i in range(len(prices) - 1):
@@ -18,8 +17,7 @@ class SolutionInitial:
         return max_profit
 
 class SolutionPreferred():
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def maxProfit(self, prices: list[int]) -> int:
         min_price, max_profit = float('inf'), 0
         for price in prices:

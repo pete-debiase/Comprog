@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n log n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n log n) / O(n)
     def merge(self, intervals: list[list[int]]) -> list[list[int]]:
         intervals.sort(key=lambda x: x[0])
         combined = []
@@ -21,8 +20,7 @@ class SolutionInitial:
         return combined
 
 class SolutionPreferred:
-    # Time Complexity: O(n log n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n log n) / O(n)
     def merge(self, intervals: list[list[int]]) -> list[list[int]]:
         intervals.sort(key=lambda x: x[0])
         merged = []

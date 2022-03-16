@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def containsDuplicate(self, numbers: list[int]) -> bool:
         hashmap = {}
         for n in numbers:
@@ -15,8 +14,7 @@ class SolutionInitial:
         return False
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def containsDuplicate(self, numbers: list[int]) -> bool:
         length_list = len(numbers)
         length_set = len(set(numbers))

@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def maxProduct(self, numbers: list[int]) -> int:
         max_current = min_current = max_final = numbers[0]
         for number in numbers[1:]:
@@ -16,8 +15,7 @@ class SolutionInitial:
         return max_final
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def maxProduct(self, numbers: list[int]) -> int:
         max_current, min_current, max_final = 1, 1, -float('inf')
         for n in numbers:

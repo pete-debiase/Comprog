@@ -5,7 +5,7 @@ import timeit
 from copy import deepcopy
 
 class SolutionInitial:
-    # Time / Space Complexity: O(mn), O(mn)
+    # Time / Space: O(mn) / O(mn)
 
     mark = -1
 
@@ -42,7 +42,7 @@ class SolutionInitial:
         return (has_pacific_path and has_atlantic_path)
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(mn), O(mn)
+    # Time / Space: O(mn) / O(mn)
     def pacificAtlantic(self, heights: list[list[int]]) -> list[list[int]]:
         if not heights: return []
         m, n = len(heights), len(heights[0])

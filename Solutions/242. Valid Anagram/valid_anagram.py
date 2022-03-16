@@ -5,8 +5,7 @@ import timeit
 from collections import defaultdict, Counter
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def isAnagram(self, s1: str, s2: str) -> bool:
         charmap_1 = self.string_to_charmap(s1)
         charmap_2 = self.string_to_charmap(s2)
@@ -22,8 +21,7 @@ class SolutionPreferred:
         return charmap
 
 class SolutionAlternate:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def isAnagram(self, s1: str, s2: str) -> bool:
         charmap = defaultdict(int)
         for c in s1: charmap[c] += 1
@@ -31,8 +29,7 @@ class SolutionAlternate:
         return all(_ == 0 for _ in charmap.values())
 
 class SolutionAlternate2:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def isAnagram(self, s1: str, s2: str) -> bool:
         return Counter(s1) == Counter(s2)
 

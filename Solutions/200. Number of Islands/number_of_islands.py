@@ -5,7 +5,7 @@ import timeit
 from copy import deepcopy
 
 class SolutionInitial:
-    # Time / Space Complexity: O(mn), O(mn)
+    # Time / Space: O(mn) / O(mn)
     def numIslands(self, grid: list[list[str]]) -> int:
         if not grid: return 0
         count, m, n = 0, len(grid), len(grid[0])
@@ -28,7 +28,7 @@ class SolutionInitial:
                 self._dfs(grid, i_next, j_next)
 
 class SolutionAlternate:
-    # Time / Space Complexity: O(mn), O(mn)
+    # Time / Space: O(mn) / O(mn)
     def numIslands(self, grid: list[list[str]]) -> int:
         if not grid: return 0
         count, m, n = 0, len(grid), len(grid[0])

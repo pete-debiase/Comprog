@@ -9,8 +9,7 @@ class ListNode:
         self.next = next
 
 class SolutionIterative:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def reverseList(self, head: ListNode | None) -> ListNode | None:
         prev = None
         while head:
@@ -21,8 +20,7 @@ class SolutionIterative:
         return prev
 
 class SolutionRecursive:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def reverseList(self, head: ListNode | None) -> ListNode | None:
         if not head or not head.next:
             return head

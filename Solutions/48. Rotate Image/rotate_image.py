@@ -5,8 +5,7 @@ import timeit
 import numpy as np
 
 class SolutionInitial:
-    # Time Complexity: O(M) where M = number of cells in matrix
-    # Space Complexity: O(1)
+    # Time / Space: O(M) where M = number of cells in matrix / O(1)
     def rotate(self, matrix: list[list[int]]) -> None:
         self.transpose(matrix)
         self.reflect(matrix)
@@ -24,8 +23,7 @@ class SolutionInitial:
                 matrix[i][j], matrix[i][-j - 1] = matrix[i][-j - 1], matrix[i][j]
 
 class SolutionPreferred:
-    # Time Complexity: O(M) where M = number of cells in matrix
-    # Space Complexity: O(1)
+    # Time / Space: O(M) where M = number of cells in matrix / O(1)
     def rotate_cw(self, matrix: list[list[int]]) -> None:
         matrix.reverse()
         for i in range(len(matrix)):

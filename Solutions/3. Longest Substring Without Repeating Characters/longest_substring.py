@@ -4,7 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n^2), O(n)
+    # Time / Space: O(n^2) / O(n)
     def lengthOfLongestSubstring(self, string: str) -> int:
         candidates, n = [], len(string)
         if n in [0, 1]: return n
@@ -22,7 +22,7 @@ class SolutionInitial:
         return length_max
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n), O(n)
+    # Time / Space: O(n) / O(n)
     def lengthOfLongestSubstring(self, string: str) -> tuple[int, str]:
         char_indexes = {}
         left = length_max = dirty = 0

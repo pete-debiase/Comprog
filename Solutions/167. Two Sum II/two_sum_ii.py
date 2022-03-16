@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
         i_lo, i_hi = 0, len(numbers) - 1
         while i_lo < i_hi:

@@ -5,7 +5,7 @@ from collections import defaultdict
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def longestOnes(self, nums: list[int], k: int) -> int:
         l = count_0s = 0
         for r in range(len(nums)):
@@ -17,7 +17,7 @@ class SolutionInitial:
         return r - l + 1
 
 class SolutionAlternate:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def longestOnes(self, nums: list[int], k: int) -> int:
         l, counts = 0, defaultdict(int)
         for r in range(len(nums)):
@@ -28,7 +28,7 @@ class SolutionAlternate:
         return r - l + 1
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def longestOnes(self, nums: list[int], k: int) -> int:
         l = 0
         for r in range(len(nums)):

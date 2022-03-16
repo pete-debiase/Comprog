@@ -4,8 +4,7 @@
 import timeit
 
 class Solution:
-    # Time Complexity: O(log n)
-    # Space Complexity: O(1)
+    # Time / Space: O(log n) / O(1)
     def search(self, nums: list[int], target: int) -> int:
         left, right = 0, len(nums) - 1
         while left <= right:

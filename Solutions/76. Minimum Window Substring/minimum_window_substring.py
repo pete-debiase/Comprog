@@ -5,7 +5,7 @@ import collections
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(s + t), O(s + t)
+    # Time / Space: O(s + t) / O(s + t)
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t or len(s) < len(t): return ''
         left, substring = 0, ''

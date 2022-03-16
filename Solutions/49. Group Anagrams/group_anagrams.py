@@ -5,8 +5,7 @@ from collections import defaultdict
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def groupAnagrams(self, strings: list[str]) -> list[list[str]]:
         hashmap = {}
         for string in strings:
@@ -19,8 +18,7 @@ class SolutionInitial:
         return anagrams
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def groupAnagrams(self, strings: list[str]) -> list[list[str]]:
         hashmap = defaultdict(list)
         for string in strings:

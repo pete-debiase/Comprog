@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n^2)
-    # Space Complexity: O(n)
+    # Time / Space: O(n^2) / O(n)
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         triplets = []
         nums.sort()

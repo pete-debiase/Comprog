@@ -5,7 +5,7 @@ import timeit
 from collections import defaultdict
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def totalFruit(self, fruits: list[int]) -> int:
         l, counts = 0, defaultdict(int)
         for r in range(len(fruits)):

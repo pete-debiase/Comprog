@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def isValid(self, string: str) -> bool:
         length = len(string)
         valid_subs = ['()', '[]', '{}']
@@ -20,8 +19,7 @@ class SolutionInitial:
         return True
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def isValid(self, string: str) -> bool:
         brackets = {'(': ')', '[': ']', '{': '}'}
         stack = []

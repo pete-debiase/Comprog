@@ -5,8 +5,7 @@ import math
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(n^2)
-    # Space Complexity: O(n)
+    # Time / Space: O(n^2) / O(n)
     def productExceptSelf(self, numbers: list[int]) -> list[int]:
         products = []
         for i, number in enumerate(numbers):
@@ -17,8 +16,7 @@ class SolutionInitial:
         return products
 
 class SolutionAlternate:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def productExceptSelf(self, numbers: list[int]) -> list[int]:
         n = len(numbers)
         lefts, rights, products = [0]*n, [0]*n, [0]*n
@@ -35,8 +33,7 @@ class SolutionAlternate:
         return products
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def productExceptSelf(self, numbers: list[int]) -> list[int]:
         # Set up for ensuing traversals and calculations.
         n = len(numbers)

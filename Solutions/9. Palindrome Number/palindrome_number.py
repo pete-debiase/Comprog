@@ -4,14 +4,14 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(1)ish, O(1)
+    # Time / Space: O(1)ish / O(1)
     def isPalindrome(self, x: int) -> bool:
         string = str(x)
         string_reversed = string[::-1]
         return string == string_reversed
 
 class SolutionAlternate:
-    # Time / Space Complexity: O(n)ish, O(1)
+    # Time / Space: O(n)ish / O(1)
     def isPalindrome(self, x: int) -> bool:
         if x < 0: return False
         n, rev = x, 0

@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def maxSubArray(self, numbers: list[int]) -> int:
         sum_current = sum_max = -float('inf')
         for number in numbers:
@@ -14,8 +13,7 @@ class SolutionPreferred:
         return sum_max
 
 class SolutionAlternate():
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def maxSubArray(self, numbers: list[int]) -> int:
         sum_current = sum_max = numbers[0]
         for number in numbers[1:]:

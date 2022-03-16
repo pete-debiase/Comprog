@@ -7,7 +7,7 @@ class ListNode:
         self.next = next
 
 class Solution:
-    # Time / Space Complexity: O(n) / O(1)
+    # Time / Space: O(n) / O(1)
     def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
         dummy = fast = slow = ListNode(next=head)
         for _ in range(n):

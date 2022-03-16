@@ -4,7 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n), O(n)
+    # Time / Space: O(n) / O(n)
     def minSubArrayLen(self, target: int, nums: list[int]) -> int:
         left, n, length_min = 0, len(nums) + 1, float('inf')
         for right in range(n):
@@ -14,7 +14,7 @@ class SolutionInitial:
         return length_min if length_min != float('inf') else 0
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n), O(1)
+    # Time / Space: O(n) / O(1)
     def minSubArrayLen(self, target: int, nums: list[int]) -> int:
         n = len(nums)
         i, total, length_min = 0, 0, n + 1

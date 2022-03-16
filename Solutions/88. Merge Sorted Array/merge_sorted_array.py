@@ -4,13 +4,13 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n+m log m+n), O(n)
+    # Time / Space: O(n+m log m+n) / O(n)
     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
         nums1[m: m + n] = nums2
         nums1.sort()
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n + m), O(1)
+    # Time / Space: O(n + m) / O(1)
     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
         p1, p2, p_write = m - 1, n - 1, m + n - 1
         while p2 >= 0:

@@ -4,7 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time / Space Complexity: O(n) * min string length, O(1)
+    # Time / Space: O(n) * min string length / O(1)
     def longestCommonPrefix(self, strings: list[str]) -> str:
         prefix, i = "", 0
         while True:
@@ -18,7 +18,7 @@ class SolutionInitial:
         return prefix
 
 class SolutionPreferred:
-    # Time / Space Complexity: O(n) * min string length, O(1)
+    # Time / Space: O(n) * min string length / O(1)
     def longestCommonPrefix(self, strings: list[str]) -> str:
         prefix = ""
         for chars in zip(*strings):

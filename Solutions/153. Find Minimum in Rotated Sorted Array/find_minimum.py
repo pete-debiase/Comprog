@@ -4,8 +4,7 @@
 import timeit
 
 class SolutionInitial:
-    # Time Complexity: O(log n)
-    # Space Complexity: O(1)
+    # Time / Space: O(log n) / O(1)
     def findMin(self, nums: list[int]) -> int:
         n = len(nums)
         lo, hi = 0, n - 1

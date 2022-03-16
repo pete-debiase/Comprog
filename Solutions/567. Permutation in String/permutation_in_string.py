@@ -6,7 +6,7 @@ import timeit
 
 class SolutionInitial:
     # Doesn't pass all test cases
-    # Time / Space Complexity: O(n * charset) where n = len(s2), O(charset)
+    # Time / Space: O(n * charset) where n = len(s2) / O(charset)
     def checkInclusion(self, s1: str, s2: str) -> bool:
         l, counter1, counter2 = 0, Counter(s1), Counter()
         for r, c in enumerate(s2):
@@ -24,7 +24,7 @@ class SolutionInitial:
 
 class SolutionAlternate:
     # Good for small charsets
-    # Time / Space Complexity: O(n * charset) where n = len(s2), O(charset)
+    # Time / Space: O(n * charset) where n = len(s2) / O(charset)
     def checkInclusion(self, s1: str, s2: str) -> bool:
         l, r = 0, len(s1)
         counter1, counter2 = Counter(s1), Counter(s2[:r])
@@ -39,7 +39,7 @@ class SolutionAlternate:
 
 class SolutionPreferred:
     # Good for large charsets
-    # Time / Space Complexity: O(n) where n = len(s2), O(charset)
+    # Time / Space: O(n) where n = len(s2) / O(charset)
     def checkInclusion(self, s1: str, s2: str) -> bool:
         l, r = 0, len(s1)
         counter1, counter2 = Counter(s1), Counter(s2[:r])

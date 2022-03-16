@@ -7,8 +7,7 @@ class ListNode:
         self.next = None
 
 class SolutionInitial:
-    # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Time / Space: O(n) / O(n)
     def hasCycle(self, head: ListNode | None) -> bool:
         node, seen = head, set()
         while node:
@@ -18,8 +17,7 @@ class SolutionInitial:
         return False
 
 class SolutionPreferred:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Time / Space: O(n) / O(1)
     def hasCycle(self, head: ListNode | None) -> bool:
         slow = fast = head
         while fast and fast.next:
