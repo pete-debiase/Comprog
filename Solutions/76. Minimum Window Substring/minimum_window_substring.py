@@ -10,12 +10,12 @@ class SolutionInitial:
         if not s or not t or len(s) < len(t): return ''
         left, substring = 0, ''
         letter_map = collections.Counter(t)
-        letters_needed = len(t)
+        letters_needed = len(letter_map)
 
         for right in range(len(s)):
-            if letter_map[s[right]] > 0:
-                letters_needed -= 1
             letter_map[s[right]] -= 1
+            if letter_map[s[right]] == 0:
+                letters_needed -= 1
 
             while letters_needed == 0:
                 len_window = right - left + 1
