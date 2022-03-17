@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """https://leetcode.com/problems/minimum-window-substring/"""
 
-import collections
+from collections import Counter
 import timeit
 
 class SolutionInitial:
@@ -9,22 +9,22 @@ class SolutionInitial:
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t or len(s) < len(t): return ''
         left, substring = 0, ''
-        letter_map = collections.Counter(t)
-        letters_needed = len(letter_map)
+        counter = Counter(t)
+        matches_needed = len(counter)
 
         for right in range(len(s)):
-            letter_map[s[right]] -= 1
-            if letter_map[s[right]] == 0:
-                letters_needed -= 1
+            counter[s[right]] -= 1
+            if counter[s[right]] == 0:
+                matches_needed -= 1
 
-            while letters_needed == 0:
+            while matches_needed == 0:
                 len_window = right - left + 1
                 if not substring or len_window < len(substring):
                     substring = s[left:right + 1]
 
-                letter_map[s[left]] += 1
-                if letter_map[s[left]] > 0:
-                    letters_needed += 1
+                counter[s[left]] += 1
+                if counter[s[left]] > 0:
+                    matches_needed += 1
                 left += 1
 
         return substring
