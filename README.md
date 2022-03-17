@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       33 / 2203 (1.4%)       | 877,403 |
+|   Latest   |       33 / 2203 (1.5%)       | 877,403 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
@@ -200,6 +200,7 @@ So hard. This problem makes me feel like I'm not cut out to be a software engine
 |:----------:|:----------------:|:--------:|
 | 2022/03/12 | Initial solution |  Python  |
 | 2022/03/13 |       6:04       |  Python  |
+| 2022/03/17 |      17:01       |  Python  |
 
 #### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 Always test algo in real use case. Here, using 'sort()' in algo with non-optimal time complexity yields faster results because 'sort()' is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
@@ -209,6 +210,7 @@ Always test algo in real use case. Here, using 'sort()' in algo with non-optimal
 | 2022/03/12 | Initial solution 😶 |  Python  |
 | 2022/03/12 |        4:05        |  Python  |
 | 2022/03/13 |        2:29        |  Python  |
+| 2022/03/17 |        3:03        |  Python  |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -348,6 +350,7 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Also "pe
 |    Date    |  Solution Time   | Language |
 |:----------:|:----------------:|:--------:|
 | 2022/03/16 | Initial solution |  Python  |
+| 2022/03/17 |       2:54       |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
@@ -371,3 +374,4 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/16 | Initial solution 😶 |  Python  |
+| 2022/03/17 |        1:24        |  Python  |
