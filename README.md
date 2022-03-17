@@ -58,9 +58,10 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 - yyyy/mm/dd - Profit!
 
 ## Solution Records / Notes
-_Note_:
-- _Initial solutions marked with_ 😶 _indicate that I was able to implement a non-optimal solution on my own._
-- _Initial solutions marked with_ 😊 _indicate that I was able to implement an optimal solution on my own._
+_Legend_:
+- 😶: _I implemented a non-optimal solution on my own._
+- 😊: _I implemented an optimal solution on my own._
+- 🧐: _I implemented a novel solution better than anything else previously available (in terms of style and/or performance)._
 
 #### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
@@ -143,7 +144,7 @@ Fought real hard for this one :) .
 
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
-| 2022/03/17 | Initial solution 😊 |  Python  |
+| 2022/03/17 | Initial solution 🧐 |  Python  |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 First time actually implementing binary search. Initially difficult, became second-nature over time.
@@ -360,12 +361,12 @@ Very similar to [567. Permutation in String](https://leetcode.com/problems/permu
 | 2022/03/17 | Initial solution 😊 |  Python  |
 
 #### [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-Battled for this one. Took 8+ hours to get a solution I was happy with. Also "permutation" can be a synonym for "anagram".
+Battled for this one. Took 8+ hours to get a solution I was happy with. Note that "permutation" can be a synonym for "anagram".
 
-|    Date    |  Solution Time   | Language |
-|:----------:|:----------------:|:--------:|
-| 2022/03/16 | Initial solution |  Python  |
-| 2022/03/17 |       2:54       |  Python  |
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/16 | Initial solution 🧐 |  Python  |
+| 2022/03/17 |        2:54        |  Python  |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
