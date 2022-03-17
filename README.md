@@ -19,7 +19,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       33 / 2203 (1.5%)       | 877,403 |
+|   Latest   |       35 / 2204 (1.6%)       | 863,999 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
@@ -28,7 +28,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 <!-- Auto-generated content -->
 <table>
     <tr><td align="center"><a href="#1-two-sum">1</a></td><td>   </td><td align="center"><a href="#3-longest-substring-without-repeating-characters">3</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#9-palindrome-number">9</a></td><td>   </td><td align="center"><a href="#11-container-with-most-water">11</a></td><td>   </td><td>   </td><td align="center"><a href="#14-longest-common-prefix">14</a></td><td align="center"><a href="#15-3sum">15</a></td></tr>
-    <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#19-remove-nth-node-from-end-of-list">19</a></td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#19-remove-nth-node-from-end-of-list">19</a></td><td align="center"><a href="#20-valid-parentheses">20</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#30-substring-with-concatenation-of-all-words">30</a></td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#33-search-in-rotated-sorted-array">33</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td align="center"><a href="#48-rotate-image">48</a></td><td align="center"><a href="#49-group-anagrams">49</a></td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#53-maximum-subarray">53</a></td><td>   </td><td>   </td><td align="center"><a href="#56-merge-intervals">56</a></td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td align="center"><a href="#76-minimum-window-substring">76</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#88-merge-sorted-array">88</a></td><td>   </td><td>   </td></tr>
@@ -137,6 +137,13 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/24 |       3:25       |  Python  |
 | 2022/02/27 |       2:05       |  Python  |
 | 2022/03/07 |       5:24       |  Python  |
+
+#### [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+Fought real hard for this one :) .
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/17 | Initial solution 😊 |  Python  |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 First time actually implementing binary search. Initially difficult, became second-nature over time.

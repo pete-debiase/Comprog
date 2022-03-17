@@ -30,7 +30,7 @@ class SolutionAlternate:
         counter1, counter2 = Counter(s1), Counter(s2[:r])
 
         while r < len(s2):
-            if counter1 == counter2: return True
+            if counter2 == counter1: return True
             counter2[s2[l]] -= 1
             counter2[s2[r]] += 1
             l += 1
