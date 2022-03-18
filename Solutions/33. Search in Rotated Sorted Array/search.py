@@ -33,11 +33,10 @@ class Solution:
             mid = (left + right) // 2
             if nums[mid] > nums[mid + 1]:
                 return mid + 1
+            elif nums[mid] < nums[left]:
+                right = mid - 1
             else:
-                if nums[mid] < nums[left]:
-                    right = mid - 1
-                else:
-                    left = mid + 1
+                left = mid + 1
         return -1
 
 
@@ -47,17 +46,17 @@ if __name__ == '__main__':
     # Example 1 (Expected Output: 4)
     nums, target = [4, 5, 6, 7, 0, 1, 2], 0
     print(solution.search(nums, target))
-    print(solution.find_rotation_index(nums))
+    # print(solution.find_rotation_index(nums))
 
     # Example 2 (Expected Output: -1)
     nums, target = [4, 5, 6, 7, 0, 1, 2], 3
     print(solution.search(nums, target))
-    print(solution.find_rotation_index(nums))
+    # print(solution.find_rotation_index(nums))
 
     # Example 2 (Expected Output: -1)
     nums, target = [1], 0
     print(solution.search(nums, target))
-    print(solution.find_rotation_index(nums))
+    # print(solution.find_rotation_index(nums))
 
     # Benchmarking
     number = 100_000
