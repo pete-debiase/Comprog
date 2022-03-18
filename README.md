@@ -24,7 +24,6 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
 ### Problems
-
 <!-- Auto-generated table -->
 <table>
   <tr>
@@ -89,9 +88,9 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 
 ## Solution Records / Notes
 _Initial Solution Legend_:
-- 😶: _I implemented a non-optimal solution on my own._
-- 😊: _I implemented an optimal solution on my own._
-- 🧐: _I implemented a novel solution better than anything available at the time (in terms of style and/or performance)._
+- 😶 : _Solved non-optimally on my own._
+- 😊 : _Solved optimally on my own._
+- 🧐 : _Solved in novel, cleaner, or more performant way than current alternatives._
 
 #### [1. Two Sum](https://leetcode.com/problems/two-sum/)
 Solutions that are O(n^2) and O(1) in time and space, respectively, can often be improved to be O(n) in both time and space. In most cases, space is cheap, while time is precious.
