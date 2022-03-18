@@ -5,7 +5,7 @@ from collections import Counter
 
 class Solution:
     def findAnagrams(self, s: str, p: str) -> list[int]:
-        starting_indices = []
+        start_indices = []
         l, r = 0, len(p)
         counter_p, counter_s = Counter(p), Counter(s[:r])
 
@@ -15,7 +15,7 @@ class Solution:
         matches_needed = sum([v != 0 for v in diffs.values()])
 
         while r < len(s):
-            if matches_needed == 0: starting_indices.append(l)
+            if matches_needed == 0: start_indices.append(l)
             char_l, char_r = s[l], s[r]
 
             diffs[char_l] -= 1
@@ -29,5 +29,5 @@ class Solution:
             l += 1
             r += 1
 
-        if matches_needed == 0: starting_indices.append(l)
-        return starting_indices
+        if matches_needed == 0: start_indices.append(l)
+        return start_indices

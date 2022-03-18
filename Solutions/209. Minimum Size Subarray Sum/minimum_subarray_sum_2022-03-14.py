@@ -5,7 +5,7 @@ class Solution:
     def minSubArrayLen(self, target: int, nums: list[int]) -> int:
         n = len(nums)
         i, total, length_min = 0, 0, n + 1
-        for j in range(len(nums)):
+        for j in range(n):
             total += nums[j]
             while total >= target:
                 length_min = min(length_min, j - i + 1)

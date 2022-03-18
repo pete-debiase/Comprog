@@ -5,7 +5,7 @@ from collections import Counter
 
 class Solution:
     def findSubstring(self, s: str, words: list[str]) -> list[int]:
-        starting_indices = []
+        start_indices = []
         num_words, word_length = len(words), len(words[0])
         counter_orig = Counter(words)
         L, R = 0, num_words * word_length
@@ -25,11 +25,11 @@ class Solution:
 
                     if count_temp > count_orig: break
                     if count_temp == count_orig: matches_needed -= 1
-                    if matches_needed == 0: starting_indices.append(L)
+                    if matches_needed == 0: start_indices.append(L)
 
                     l += word_length
                     r += word_length
             L += 1
             R += 1
 
-        return starting_indices
+        return start_indices

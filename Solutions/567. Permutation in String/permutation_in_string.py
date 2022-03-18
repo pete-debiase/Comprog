@@ -66,6 +66,7 @@ class SolutionPreferred:
 
         return matches_needed == 0
 
+
 if __name__ == '__main__':
     solution_initial = SolutionInitial()
     solution_alternate = SolutionAlternate()

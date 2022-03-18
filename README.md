@@ -58,7 +58,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 - yyyy/mm/dd - Profit!
 
 ## Solution Records / Notes
-_Legend_:
+_Initial Solution Legend_:
 - 😶: _I implemented a non-optimal solution on my own._
 - 😊: _I implemented an optimal solution on my own._
 - 🧐: _I implemented a novel solution better than anything else previously available (in terms of style and/or performance)._
