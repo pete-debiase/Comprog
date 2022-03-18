@@ -3,6 +3,9 @@
 
 import os
 
+from airium import Airium
+from jinja2 import Template
+
 # Get list of solved problems
 path = "Solutions/"
 directories = [_ for _ in os.listdir(path) if os.path.isdir(path + _)]
@@ -13,26 +16,35 @@ problems = {int(_[0]): _[1] for _ in problems}
 problems = {k: f"{k}-{v.lower().replace(' ', '-')}" for k, v in problems.items()}
 problems = {k: v for k, v in sorted(problems.items(), key=lambda item: item[0])}
 
-# Build HTML problem table (compact)
-row, rows = [], []
-cells_per_row = 15
-n = len(problems)
-dummy_cell = '<td>   </td>'
-for i, k in enumerate(problems):
-    cell = f'<td align="center"><a href="#{problems[k]}">{k}</a></td>'
-    row.append(cell)
-    if (i + 1) % cells_per_row == 0:
-        row_HTML = '\n    '.join(row)
-        rows.append(f"  <tr>\n    {row_HTML}\n  </tr>")
-        row.clear()
-    elif i == n - 1:
-        dummy_cells = [dummy_cell] * (cells_per_row - len(row))
-        row += dummy_cells
-        row_HTML = '\n    '.join(row)
-        rows.append(f"  <tr>\n    {row_HTML}\n  </tr>")
+# Build HTML problem table (airium)
+num_columns = 15
+links = [f'<a href="#{problems[k]}">{k}</a>' for k in problems]
+links_chunked = [links[i:i + num_columns] for i in range(0, len(links), num_columns)]
+links_chunked = [_ + [''] * (num_columns - len(_)) for _ in links_chunked] # Add padding
 
-rows_HTML = '\n'.join(rows)
-table = f'<table>\n{rows_HTML}\n</table>'
+a = Airium()
+with a.table():
+    for chunk in links_chunked:
+        with a.tr():
+            for link in chunk:
+                a.td(align='center', _t=link)
+table = str(a)
+
+# Build HTML problem table (Jinja)
+template = """<table>
+{% for chunk in links_chunked %}
+  <tr>
+    {% for link in chunk %}
+      <td align="center">{{ link }}</td>
+    {% endfor %}
+  </tr>
+{% endfor %}
+</table>
+"""
+HTML_table = Template(template).render(links_chunked=links_chunked, trim_blocks=True, lstrip_blocks=True)
+
+with open('test2.md', 'w+', encoding='utf-8') as file:
+    file.write(HTML_table)
 
 # Insert HTML problem table into README
 with open('README.md', 'r', encoding='utf-8') as file:
