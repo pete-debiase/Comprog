@@ -48,6 +48,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#704-binary-search">704</a></td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#904-fruit-into-baskets">904</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td align="center"><a href="#977-squares-of-a-sorted-array">977</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#1004-max-consecutive-ones-iii">1004</a></td><td>   </td></tr>
 </table>
 <!-- Auto-generated content -->
@@ -400,6 +401,12 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |:----------:|:------------------:|:--------:|
 | 2022/03/14 | Initial solution 😶 |  Python  |
 | 2022/03/15 |        2:56        |  Python  |
+
+#### [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/18 | Initial solution 😶 |  Python  |
 
 #### [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
