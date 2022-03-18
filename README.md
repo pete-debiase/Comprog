@@ -46,6 +46,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <tr><td>   </td><td>   </td><td align="center"><a href="#438-find-all-anagrams-in-a-string">438</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#567-permutation-in-string">567</a></td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td align="center"><a href="#647-palindromic-substrings">647</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+    <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#704-binary-search">704</a></td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td align="center"><a href="#904-fruit-into-baskets">904</a></td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
     <tr><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td>   </td><td align="center"><a href="#1004-max-consecutive-ones-iii">1004</a></td><td>   </td></tr>
 </table>
@@ -385,6 +386,12 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 | 2022/03/12 |    No solution     |  Python  |
 | 2022/03/12 |        6:49        |  Python  |
 | 2022/03/15 |       11:28        |  Python  |
+
+#### [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
+|    Date    |   Solution Time    | Language |
+|:----------:|:------------------:|:--------:|
+| 2022/03/18 | Initial solution 😊 |  Python  |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
