@@ -70,13 +70,13 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#904-fruit-into-baskets">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii">1004</a></td>
-    <td>   </td>
-    <td>   </td>
-    <td>   </td>
-    <td>   </td>
-    <td>   </td>
-    <td>   </td>
-    <td>   </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 <!-- Auto-generated table -->
