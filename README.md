@@ -101,6 +101,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 | 2022/03/06 | Initial solution |  Python  |
 | 2022/03/07 |       4:38       |  Python  |
 | 2022/03/10 |       4:01       |  Python  |
+| 2022/03/17 |       3:54       |  Python  |
 
 #### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
@@ -145,6 +146,7 @@ Fought real hard for this one :) .
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/17 | Initial solution 🧐 |  Python  |
+| 2022/03/17 |        6:34        |  Python  |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 First time actually implementing binary search. Initially difficult, became second-nature over time.
@@ -156,6 +158,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/06 |   No solution    |  Python  |
 | 2022/03/07 |       5:24       |  Python  |
 | 2022/03/10 |       3:55       |  Python  |
+| 2022/03/17 |   No solution    |  Python  |
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -192,6 +195,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/02/22 |       5:15       |  Python  |
 | 2022/03/06 |       3:05       |  Python  |
 | 2022/03/14 |       3:02       |  Python  |
+| 2022/03/17 |       2:34       |  Python  |
 
 #### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
@@ -243,6 +247,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/03/06 |        4:59        |  Python  |
 | 2022/03/13 |        7:11        |  Python  |
 | 2022/03/14 |        1:21        |  Python  |
+| 2022/03/17 |        1:32        |  Python  |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -299,6 +304,7 @@ A classic :) . Kind of hurts my brain though.
 |:----------:|:------------------:|:--------:|
 | 2022/03/13 | Initial solution 😶 |  Python  |
 | 2022/03/14 |        3:33        |  Python  |
+| 2022/03/17 |       11:20        |  Python  |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -330,6 +336,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/02/07 | Initial solution |  Python  |
 | 2022/02/22 |       2:29       |  Python  |
+| 2022/02/22 |       2:07       |  Python  |
 
 #### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
@@ -352,6 +359,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:--------:|
 | 2022/03/14 | Initial solution |  Python  |
 | 2022/03/14 |       3:04       |  Python  |
+| 2022/03/17 |       6:47       |  Python  |
 
 #### [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 Very similar to [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/). Glad I put in the time battling with that one.
@@ -359,6 +367,7 @@ Very similar to [567. Permutation in String](https://leetcode.com/problems/permu
 |    Date    |   Solution Time    | Language |
 |:----------:|:------------------:|:--------:|
 | 2022/03/17 | Initial solution 😊 |  Python  |
+| 2022/03/17 |        7:55        |  Python  |
 
 #### [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 Battled for this one. Took 8+ hours to get a solution I was happy with. Note that "permutation" can be a synonym for "anagram".
