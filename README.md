@@ -1,5 +1,7 @@
 # Competitive Programming
-I enjoy coding puzzles. My current goal is to solve all of the problems on LeetCode - [my LeetCode profile 🧐](https://leetcode.com/pete-debiase/).
+I enjoy coding puzzles. My current goal is to solve all of the problems on LeetCode - [my LeetCode profile 🧐](https://leetcode.com/pete-debiase/) .
+
+This repo includes utilities for automating problem acquisition, problem review, and progress tracking.
 
 I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice re-solving past problems.
 
