@@ -12,7 +12,7 @@ def build_solution_metadata_dict():
 
         problem_title = os.path.basename(root)
         problem_id, title_text = problem_title.split('. ')
-        anchor = f"#{problem_id}-{title_text.lower().replace(' ', '-')}"
+        anchor = f"#{problem_id}-{title_text.lower().replace(' ', '-')}-solutions"
 
         problem = {'root': root,
                    'title': problem_title,
