@@ -2,6 +2,7 @@
 """Update main README"""
 
 import os
+import re
 from airium import Airium
 
 # ┌─────────────────────────────────────────────────────────────────────────────
@@ -48,3 +49,35 @@ readme[1] = f'{marker}\n{table}\n{marker}'
 
 with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
     file.write(''.join(readme))
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ READMEs
+# └─────────────────────────────────────────────────────────────────────────────
+with open('README.md', 'r', encoding='utf-8') as file:
+    readme_main = file.read()
+
+subreadmes = readme_main.split('####')[1:]
+subreadmes = [_.strip() + '\n' for _ in subreadmes]
+
+for k, subreadme in zip(solutions, subreadmes):
+    root = solutions[k]['root']
+    filename = root + '/README.md'
+
+    problem_title = solutions[k]['title'].replace(' ', '%20')
+    solution_files = solutions[k]['files']
+    URL_base = f'https://github.com/pete-debiase/Comprog/blob/main/Solutions/{problem_title}/'
+    solution_URLs = [URL_base + file for file in solution_files if '.py' in file]
+    solution_URLs = [f'| [Python]({URL}) |' for URL in solution_URLs]
+
+    full_title = f"### [{solutions[k]['title']}](URL) ([solutions]({URL_base}))"
+
+    readme = f"""{full_title}\nNOTES\n\nTABLE\n\n{solution_URLs}"""
+
+    subreadme = subreadme.split('\n')
+    subreadme[0] = f"### {subreadme[0]} ([solutions]({URL_base}))"
+    subreadme = '\n'.join(subreadme)
+
+    subreadme = re.sub(r'\|(\s*Python\s*)\|', lambda match: str(solution_URLs.pop(0)), subreadme)
+
+    with open(filename, 'w+', newline='\n', encoding='utf-8') as file:
+        file.write(subreadme)
