@@ -108,23 +108,23 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 
 #### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/))
 
-|    Date    |   Solution Time    |                                                                              Language                                                                               |
-|:----------:|:------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                              Language                                                                               |
+|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/06 | Initial solution 😶 |       [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py)        |
-| 2022/03/07 |        3:26        |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-07.py)  |
-| 2022/03/10 |    No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-10.py)  |
-| 2022/03/12 |    No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12.py)  |
-| 2022/03/12 |        3:48        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12_2.py) |
-| 2022/03/15 |        4:25        |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-15.py)  |
+| 2022/03/07 |        3:26         |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-07.py)  |
+| 2022/03/10 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-10.py)  |
+| 2022/03/12 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12.py)  |
+| 2022/03/12 |        3:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12_2.py) |
+| 2022/03/15 |        4:25         |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-15.py)  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/))
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
 
-|    Date    |   Solution Time    |                                                            Language                                                            |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                            Language                                                            |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/07 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number.py)       |
-| 2022/03/08 |        1:29        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-08.py) |
-| 2022/03/12 |        1:23        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-12.py) |
+| 2022/03/08 |        1:29         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-08.py) |
+| 2022/03/12 |        1:23         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-12.py) |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/11.%20Container%20With%20Most%20Water/))
 
@@ -137,11 +137,11 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 
 #### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/))
 
-|    Date    |   Solution Time    |                                                                 Language                                                                  |
-|:----------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                 Language                                                                  |
+|:----------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/10 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix.py)       |
-| 2022/03/12 |        2:05        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-12.py) |
-| 2022/03/14 |        2:02        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-14.py) |
+| 2022/03/12 |        2:05         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-12.py) |
+| 2022/03/14 |        2:02         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-14.py) |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/))
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -181,10 +181,10 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 #### [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/))
 Fought real hard for this one :) .
 
-|    Date    |   Solution Time    |                                                                           Language                                                                           |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                           Language                                                                           |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/17 | Initial solution 🧐 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring.py)       |
-| 2022/03/17 |        6:34        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring_2022-03-17.py) |
+| 2022/03/17 |        6:34         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring_2022-03-17.py) |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/))
 First time actually implementing binary search. Initially difficult, became second-nature over time.
@@ -215,12 +215,12 @@ First time actually implementing binary search. Initially difficult, became seco
 #### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/))
 - In Python, use `collections.defaultdict` whenever you encounter a situation like this (building a hashmap where it's super convenient to have a default value automatically initialized for each key encountered).
 
-|    Date    |   Solution Time    |                                                         Language                                                          |
-|:----------:|:------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                         Language                                                          |
+|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
 | 2022/02/28 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams.py)       |
-| 2022/02/28 |        5:19        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-02-28.py) |
-| 2022/03/04 |        4:48        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-04.py) |
-| 2022/03/10 |        4:33        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-10.py) |
+| 2022/02/28 |        5:19         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-02-28.py) |
+| 2022/03/04 |        4:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-04.py) |
+| 2022/03/10 |        4:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-10.py) |
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/))
 Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/).
@@ -256,12 +256,12 @@ So hard. This problem makes me feel like I'm not cut out to be a software engine
 #### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/))
 Always test algo in real use case. Here, using `sort()` in algo with non-optimal time complexity yields faster results because `sort()` is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
 
-|    Date    |   Solution Time    |                                                              Language                                                               |
-|:----------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                              Language                                                               |
+|:----------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/12 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array.py)       |
-| 2022/03/12 |        4:05        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-12.py) |
-| 2022/03/13 |        2:29        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-13.py) |
-| 2022/03/17 |        3:03        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-17.py) |
+| 2022/03/12 |        4:05         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-12.py) |
+| 2022/03/13 |        2:29         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-13.py) |
+| 2022/03/17 |        3:03         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/merge_sorted_array_2022-03-17.py) |
 
 #### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/))
 - `min()` and `max()` introduce quite a bit of overhead, even when called on a collection of just two items.
@@ -278,14 +278,14 @@ Always test algo in real use case. Here, using `sort()` in algo with non-optimal
 #### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/))
 First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A fine algorithm :) .
 
-|    Date    |   Solution Time    |                                                              Language                                                              |
-|:----------:|:------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                              Language                                                              |
+|:----------:|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/03 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle.py)       |
-| 2022/03/04 |        8:05        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-04.py) |
-| 2022/03/06 |        4:59        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-06.py) |
-| 2022/03/13 |        7:11        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-13.py) |
-| 2022/03/14 |        1:21        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-14.py) |
-| 2022/03/17 |        1:32        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-17.py) |
+| 2022/03/04 |        8:05         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-04.py) |
+| 2022/03/06 |        4:59         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-06.py) |
+| 2022/03/13 |        7:11         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-13.py) |
+| 2022/03/14 |        1:21         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-14.py) |
+| 2022/03/17 |        1:32         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/linked_list_cycle_2022-03-17.py) |
 
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/))
 
@@ -299,12 +299,12 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 #### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/))
 Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
 
-|    Date    |   Solution Time    |                                                                        Language                                                                        |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                        Language                                                                        |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/03 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum.py)       |
-| 2022/03/04 |        6:29        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-04.py) |
-| 2022/03/06 |        3:38        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-06.py) |
-| 2022/03/13 |        4:39        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-13.py) |
+| 2022/03/04 |        6:29         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-04.py) |
+| 2022/03/06 |        3:38         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-06.py) |
+| 2022/03/13 |        4:39         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find_minimum_2022-03-13.py) |
 
 #### [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/167.%20Two%20Sum%20II/))
 Use two-pointer solution to take advantage of input array already being sorted.
@@ -338,11 +338,11 @@ A classic :) . Kind of hurts my brain though.
 
 #### [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/))
 
-|    Date    |   Solution Time    |                                                                    Language                                                                     |
-|:----------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                    Language                                                                     |
+|:----------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/13 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum.py)       |
-| 2022/03/14 |        3:33        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-14.py) |
-| 2022/03/17 |       11:20        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-17.py) |
+| 2022/03/14 |        3:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-14.py) |
+| 2022/03/17 |        11:20        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-17.py) |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/))
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -378,10 +378,10 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 
 #### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/))
 
-|    Date    |   Solution Time    |                                                                                     Language                                                                                     |
-|:----------:|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                                     Language                                                                                     |
+|:----------:|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/14 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct.py)       |
-| 2022/03/15 |        2:55        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct_2022-03-15.py) |
+| 2022/03/15 |        2:55         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct_2022-03-15.py) |
 
 #### [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/))
 
@@ -402,53 +402,53 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 #### [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/))
 Very similar to [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/). Glad I put in the time battling with that one.
 
-|    Date    |   Solution Time    |                                                                     Language                                                                     |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                     Language                                                                     |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/17 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams.py)       |
-| 2022/03/17 |        7:55        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams_2022-03-17.py) |
+| 2022/03/17 |        7:55         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams_2022-03-17.py) |
 
 #### [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/))
 Battled for this one. Took 8+ hours to get a solution I was happy with. Note that "permutation" can be a synonym for "anagram".
 
-|    Date    |   Solution Time    |                                                                  Language                                                                  |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                  Language                                                                  |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/16 | Initial solution 🧐 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string.py)       |
-| 2022/03/17 |        2:54        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-03-17.py) |
+| 2022/03/17 |        2:54         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-03-17.py) |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/))
 
-|    Date    |   Solution Time    |                                                                   Language                                                                   |
-|:----------:|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                   Language                                                                   |
+|:----------:|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/09 | Initial solution 😶 |       [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings.py)        |
-| 2022/03/12 |    No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12.py)  |
-| 2022/03/12 |        6:49        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12_2.py) |
-| 2022/03/15 |       11:28        |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-15.py)  |
+| 2022/03/12 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12.py)  |
+| 2022/03/12 |        6:49         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12_2.py) |
+| 2022/03/15 |        11:28        |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-15.py)  |
 
 #### [704. Binary Search](https://leetcode.com/problems/binary-search/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/))
 
-|    Date    |   Solution Time    |                                                   Language                                                    |
-|:----------:|:------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                   Language                                                    |
+|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|
 | 2022/03/18 | Initial solution 😊 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
 
-|    Date    |   Solution Time    |                                                               Language                                                               |
-|:----------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                               Language                                                               |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/14 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets.py)       |
-| 2022/03/15 |        2:56        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-03-15.py) |
+| 2022/03/15 |        2:56         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-03-15.py) |
 
 #### [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/))
 
-|    Date    |   Solution Time    |                                                         Language                                                          |
-|:----------:|:------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                         Language                                                          |
+|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/18 | Initial solution 😶 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/squares.py) |
 
 #### [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/))
 
-|    Date    |   Solution Time    |                                                                    Language                                                                     |
-|:----------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Date    |    Solution Time    |                                                                    Language                                                                     |
+|:----------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/16 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones.py)       |
-| 2022/03/17 |        1:24        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-03-17.py) |
+| 2022/03/17 |        1:24         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-03-17.py) |
 
 <!-- Auto-aggregated sub-READMEs -->
