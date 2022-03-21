@@ -19,7 +19,7 @@ def generate_html_problem_table(solution_metadata):
                 [a.td(align='center', _t=link) for link in chunk]
     table = str(a)
 
-    insert_into_main_readme('<!-- Auto-aggregated sub-READMEs -->', table)
+    insert_into_main_readme('<!-- Auto-generated table -->', table)
 
 
 def aggregate_readmes(solution_metadata):
@@ -49,7 +49,12 @@ def insert_into_main_readme(marker, text_to_insert):
         file.write(''.join(readme_main))
 
 
+def update_main_readme():
+    """Update the main readme."""
+    solution_metadata = build_solution_metadata_dict()
+    generate_html_problem_table(solution_metadata)
+    aggregate_readmes(solution_metadata)
+
+
 if __name__ == '__main__':
-    solutions = build_solution_metadata_dict()
-    generate_html_problem_table(solutions)
-    aggregate_readmes(solutions)
+    update_main_readme()
