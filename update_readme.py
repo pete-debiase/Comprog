@@ -50,6 +50,7 @@ def aggregate_readmes(solutions):
     for filename in subreadme_filenames:
         with open(filename, 'r', encoding='utf-8') as file:
             subreadme = file.read()
+        subreadme = subreadme.replace('###', '####') # Change Markdown heading level for inclusion in main README
         subreadmes.append(subreadme)
 
     subreadmes = '\n'.join(subreadmes)

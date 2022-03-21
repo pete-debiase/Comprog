@@ -1,5 +1,5 @@
 ### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/88.%20Merge%20Sorted%20Array/))
-Always test algo in real use case. Here, using 'sort()' in algo with non-optimal time complexity yields faster results because 'sort()' is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
+Always test algo in real use case. Here, using `sort()` in algo with non-optimal time complexity yields faster results because `sort()` is implemented in C (fast), and is therefore much faster than a pure algorithm solution.
 
 |    Date    |   Solution Time    |                                                              Language                                                               |
 |:----------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
