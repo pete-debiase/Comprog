@@ -1,34 +1,14 @@
 #!/usr/bin/python
 """Update main README"""
 
-import os
 from airium import Airium
+from utilities import build_solution_metadata_dict
 
 
-def build_solution_metadata_dict():
-    """Build a sorted dictionary of solution metadata."""
-    solutions_root, solutions = r'Solutions/', {}
-    for root, dirs, files in os.walk(solutions_root):
-        if root == solutions_root: continue # Skip first (parent) entry from os.walk
-
-        problem_title = os.path.basename(root)
-        problem_id, title_text = problem_title.split('. ')
-        anchor = f"#{problem_id}-{title_text.lower().replace(' ', '-')}"
-
-        problem = {'root': root,
-                        'title': problem_title,
-                        'anchor': anchor,
-                        'files': files}
-        solutions[int(problem_id)] = problem
-
-    solutions = {k: solutions[k] for k in sorted(solutions)}
-    return solutions
-
-
-def generate_html_problem_table(solutions):
+def generate_html_problem_table(solution_metadata):
     """Generate HTML problem table."""
     num_columns = 15
-    links = [f'''<a href="{solutions[k]['anchor']}">{k}</a>''' for k in solutions]
+    links = [f'''<a href="{solution_metadata[k]['anchor']}">{k}</a>''' for k in solution_metadata]
     links_chunked = [links[i:i + num_columns] for i in range(0, len(links), num_columns)]
     links_chunked[-1] += [''] * (num_columns - len(links_chunked[-1])) # Pad last chunk if necessary
 
@@ -42,9 +22,9 @@ def generate_html_problem_table(solutions):
     insert_into_main_readme('<!-- Auto-aggregated sub-READMEs -->', table)
 
 
-def aggregate_readmes(solutions):
+def aggregate_readmes(solution_metadata):
     """Aggregate READMEs for each problem into main README."""
-    subreadme_filenames = [solutions[k]['root'] + '/README.md' for k in solutions]
+    subreadme_filenames = [solution_metadata[k]['root'] + '/README.md' for k in solution_metadata]
 
     subreadmes = []
     for filename in subreadme_filenames:
