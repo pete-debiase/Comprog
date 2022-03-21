@@ -39,18 +39,43 @@ def generate_html_problem_table(solutions):
                 [a.td(align='center', _t=link) for link in chunk]
     table = str(a)
 
-    # Insert HTML problem table into README
+    # Insert HTML problem table into main README
     with open('README.md', 'r', encoding='utf-8') as file:
-        readme = file.read()
+        readme_main = file.read()
 
     marker = '<!-- Auto-generated table -->'
-    readme = readme.split(marker)
-    readme[1] = f'{marker}\n{table}\n{marker}'
+    readme_main = readme_main.split(marker)
+    readme_main[1] = f'{marker}\n{table}\n{marker}'
 
     with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
-        file.write(''.join(readme))
+        file.write(''.join(readme_main))
+
+
+def aggregate_readmes(solutions):
+    """Aggregate READMEs for each problem into main README."""
+    subreadme_filenames = [solutions[k]['root'] + '/README.md' for k in solutions]
+
+    subreadmes = []
+    for filename in subreadme_filenames:
+        with open(filename, 'r', encoding='utf-8') as file:
+            subreadme = file.read()
+        subreadmes.append(subreadme)
+
+    subreadmes = '\n'.join(subreadmes)
+
+    # Insert subreadmes into main README
+    with open('README.md', 'r', encoding='utf-8') as file:
+        readme_main = file.read()
+
+    marker = '<!-- Auto-aggregated sub-READMEs -->'
+    readme_main = readme_main.split(marker)
+    readme_main[1] = f'{marker}\n{subreadmes}\n{marker}'
+
+    with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
+        file.write(''.join(readme_main))
 
 
 if __name__ == '__main__':
     solutions = build_solution_metadata_dict()
     generate_html_problem_table(solutions)
+    aggregate_readmes(solutions)
