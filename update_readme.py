@@ -39,16 +39,7 @@ def generate_html_problem_table(solutions):
                 [a.td(align='center', _t=link) for link in chunk]
     table = str(a)
 
-    # Insert HTML problem table into main README
-    with open('README.md', 'r', encoding='utf-8') as file:
-        readme_main = file.read()
-
-    marker = '<!-- Auto-generated table -->'
-    readme_main = readme_main.split(marker)
-    readme_main[1] = f'{marker}\n{table}\n{marker}'
-
-    with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
-        file.write(''.join(readme_main))
+    insert_into_main_readme('<!-- Auto-aggregated sub-READMEs -->', table)
 
 
 def aggregate_readmes(solutions):
@@ -62,14 +53,16 @@ def aggregate_readmes(solutions):
         subreadmes.append(subreadme)
 
     subreadmes = '\n'.join(subreadmes)
+    insert_into_main_readme('<!-- Auto-aggregated sub-READMEs -->', subreadmes)
 
-    # Insert subreadmes into main README
+
+def insert_into_main_readme(marker, text_to_insert):
+    """Insert `text_to_insert` into main README at position indicated by 'marker`."""
     with open('README.md', 'r', encoding='utf-8') as file:
         readme_main = file.read()
 
-    marker = '<!-- Auto-aggregated sub-READMEs -->'
     readme_main = readme_main.split(marker)
-    readme_main[1] = f'{marker}\n{subreadmes}\n{marker}'
+    readme_main[1] = f'{marker}\n{text_to_insert}\n{marker}'
 
     with open('README.md', 'w+', newline='\n', encoding='utf-8') as file:
         file.write(''.join(readme_main))
