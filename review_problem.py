@@ -66,5 +66,5 @@ with open(f'{root_dir}/README.md', 'a', encoding='utf-8') as file:
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Update main README
 # └─────────────────────────────────────────────────────────────────────────────
-done = input("Nice work :) . Press Enter to quit... ")
+done = input("Nice work :) . Press any key to quit... ")
 update_readme.update_main_readme()
