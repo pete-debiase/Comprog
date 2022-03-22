@@ -40,16 +40,18 @@ with open(f'{root_dir}/{filename}', 'w+', newline='\n', encoding='utf-8') as fil
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Time solution
 # └─────────────────────────────────────────────────────────────────────────────
+pause = input("Setup complete. Press any key to start solution timer... ")
 start_time = time.time()
+print(f"\nStarted at {datetime.fromtimestamp(start_time):%H:%M:%S}")
 solution_flag = input("Enter solution result ('done' or 'none'): ")
 end_time = time.time()
 
-if solution_flag == 'none': solution_time = 'No solution'
-else:
-    delta = round(end_time - start_time)
-    m, s = divmod(delta, 60)
-    solution_time = f'{m:02d}:{s:02d}'
-print(f'Solution Time: {solution_time}\n')
+delta = round(end_time - start_time)
+m, s = divmod(delta, 60)
+solution_time = f'{m:d}:{s:02d}'
+
+if solution_flag == 'done': print(f'Solution Result: Done in {solution_time} \n')
+if solution_flag == 'none': print(f'Solution Result: No solution after {solution_time} \n')
 
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Update problem README
@@ -66,5 +68,6 @@ with open(f'{root_dir}/README.md', 'a', encoding='utf-8') as file:
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Update main README
 # └─────────────────────────────────────────────────────────────────────────────
-done = input("Nice work :) . Press any key to quit... ")
+comment = "Nice work :) ." if solution_flag == 'done' else "Keep at it :) ."
+done = input(f"{comment} Press any key to update main README and quit... ")
 update_readme.update_main_readme()
