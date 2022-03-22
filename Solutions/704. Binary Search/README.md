@@ -1,5 +1,6 @@
 ### [704. Binary Search](https://leetcode.com/problems/binary-search/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/))
 
-|    Date    |    Solution Time    |                                                   Language                                                    |
-|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| 2022/03/18 | Initial solution 😊 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py) |
+|    Date    |    Solution Time    |                                                         Language                                                         |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 2022/03/18 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py)       |
+| 2022/03/21 |        1:44         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search_2022-03-21.py) |

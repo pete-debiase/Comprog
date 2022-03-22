@@ -8,7 +8,7 @@ class ListNode:
 
 class Solution:
     def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
-        dummy = slow = fast = ListNode(next=head)
+        dummy = fast = slow = ListNode(next=head)
         for _ in range(n): fast = fast.next
         while fast.next:
             slow = slow.next

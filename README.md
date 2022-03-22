@@ -162,6 +162,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/07 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_nth_from_end.py)       |
 | 2022/03/08 |       1:57       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_nth_from_end_2022-03-08.py) |
 | 2022/03/12 |       2:05       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_nth_from_end_2022-03-12.py) |
+| 2022/03/21 |       2:44       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_nth_from_end_2022-03-21.py) |
 
 #### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/))
 
@@ -174,9 +175,10 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 
 #### [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/))
 
-|    Date    |   Solution Time    |                                                                   Language                                                                   |
-|:----------:|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| 2022/03/18 | Initial solution 😶 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py) |
+|    Date    |    Solution Time    |                                                                        Language                                                                         |
+|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/03/18 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py)       |
+| 2022/03/21 |        2:15         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates_2022-03-21.py) |
 
 #### [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/))
 Fought real hard for this one :) .
@@ -185,6 +187,7 @@ Fought real hard for this one :) .
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/17 | Initial solution 🧐 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring.py)       |
 | 2022/03/17 |        6:34         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring_2022-03-17.py) |
+| 2022/03/21 |        14:28        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words/find_substring_2022-03-21.py) |
 
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/))
 First time actually implementing binary search. Initially difficult, became second-nature over time.
@@ -197,6 +200,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/07 |       5:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-07.py) |
 | 2022/03/10 |       3:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-10.py) |
 | 2022/03/17 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-17.py) |
+| 2022/03/21 |       4:10       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-21.py) |
 
 #### [48. Rotate Image](https://leetcode.com/problems/rotate-image/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/))
 - Transpose + reflect approach is nice because it uses standard matrix operations.
@@ -324,6 +328,7 @@ First time encountering DFS. What a neat algo 🤓 .
 | 2022/03/08 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands.py)       |
 | 2022/03/10 |       6:40       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-10.py) |
 | 2022/03/12 |       9:32       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-12.py) |
+| 2022/03/21 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-21.py) |
 
 #### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/))
 A classic :) . Kind of hurts my brain though.
@@ -335,6 +340,7 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/06 |       4:16       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/reverse_linked_list_2022-03-06.py) |
 | 2022/03/14 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/reverse_linked_list_2022-03-14.py) |
 | 2022/03/15 |       1:39       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/reverse_linked_list_2022-03-15.py) |
+| 2022/03/21 |       0:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/reverse_linked_list_2022-03-21.py) |
 
 #### [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/))
 
@@ -426,9 +432,10 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 
 #### [704. Binary Search](https://leetcode.com/problems/binary-search/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/))
 
-|    Date    |    Solution Time    |                                                   Language                                                    |
-|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| 2022/03/18 | Initial solution 😊 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py) |
+|    Date    |    Solution Time    |                                                         Language                                                         |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 2022/03/18 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py)       |
+| 2022/03/21 |        1:44         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search_2022-03-21.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
@@ -440,9 +447,10 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 
 #### [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/))
 
-|    Date    |    Solution Time    |                                                         Language                                                          |
-|:----------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| 2022/03/18 | Initial solution 😶 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/squares.py) |
+|    Date    |    Solution Time    |                                                               Language                                                               |
+|:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/03/18 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/squares.py)       |
+| 2022/03/21 |        5:31         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/squares_2022-03-21.py) |
 
 #### [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/))
 

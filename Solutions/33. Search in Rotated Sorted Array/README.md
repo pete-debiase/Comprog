@@ -9,3 +9,4 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/07 |       5:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-07.py) |
 | 2022/03/10 |       3:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-10.py) |
 | 2022/03/17 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-17.py) |
+| 2022/03/21 |       4:10       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array/search_2022-03-21.py) |
