@@ -114,6 +114,7 @@ print("Anki HTML on clipboard :) .\n")
 # │ Time solution
 # └─────────────────────────────────────────────────────────────────────────────
 start_time = time.time()
+print(f"\nStarted at {datetime.fromtimestamp(start_time):%H:%M:%S}")
 solution_flag = input("Enter 'done' when done: ")
 end_time = time.time()
 
