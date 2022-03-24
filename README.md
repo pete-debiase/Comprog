@@ -89,10 +89,11 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 - yyyy/mm/dd - Profit!
 
 ## Solution Records / Notes
-_Initial Solution Legend_:
-- 😶 : _Solved non-optimally on my own._
-- 😊 : _Solved optimally on my own._
-- 🧐 : _Solved in novel, cleaner, or more performant way than current alternatives._
+_Initial Solution Legend_
+-     : _No independent solution._
+- 😶 : _Solved independently with sub-optimal time or space complexity._
+- 😊 : _Solved independently with optimal time and space complexity._
+- 🧐 : _Solved in novel or substantially cleaner/faster way than currently posted alternatives._
 
 <!-- Auto-aggregated sub-READMEs -->
 #### [1. Two Sum](https://leetcode.com/problems/two-sum/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/))
