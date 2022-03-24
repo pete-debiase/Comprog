@@ -1,7 +1,7 @@
 # Competitive Programming
 I enjoy coding puzzles. My current goal is to solve all of the problems on LeetCode - [my LeetCode profile 🧐](https://leetcode.com/pete-debiase/) .
 
-This repo includes utilities for automating problem acquisition, problem review, and progress tracking.
+This repo also includes a few utilities for automating problem acquisition, problem review, and progress tracking.
 
 I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice re-solving past problems.
 
@@ -35,6 +35,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#11-container-with-most-water-solutions">11</a></td>
     <td align="center"><a href="#14-longest-common-prefix-solutions">14</a></td>
     <td align="center"><a href="#15-3sum-solutions">15</a></td>
+    <td align="center"><a href="#16-3sum-closest-solutions">16</a></td>
     <td align="center"><a href="#19-remove-nth-node-from-end-of-list-solutions">19</a></td>
     <td align="center"><a href="#20-valid-parentheses-solutions">20</a></td>
     <td align="center"><a href="#26-remove-duplicates-from-sorted-array-solutions">26</a></td>
@@ -43,9 +44,9 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#48-rotate-image-solutions">48</a></td>
     <td align="center"><a href="#49-group-anagrams-solutions">49</a></td>
     <td align="center"><a href="#53-maximum-subarray-solutions">53</a></td>
-    <td align="center"><a href="#56-merge-intervals-solutions">56</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="#56-merge-intervals-solutions">56</a></td>
     <td align="center"><a href="#76-minimum-window-substring-solutions">76</a></td>
     <td align="center"><a href="#88-merge-sorted-array-solutions">88</a></td>
     <td align="center"><a href="#121-best-time-to-buy-and-sell-stock-solutions">121</a></td>
@@ -60,9 +61,9 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#238-product-of-array-except-self-solutions">238</a></td>
     <td align="center"><a href="#242-valid-anagram-solutions">242</a></td>
     <td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters-solutions">340</a></td>
-    <td align="center"><a href="#417-pacific-atlantic-water-flow-solutions">417</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="#417-pacific-atlantic-water-flow-solutions">417</a></td>
     <td align="center"><a href="#424-longest-repeating-character-replacement-solutions">424</a></td>
     <td align="center"><a href="#438-find-all-anagrams-in-a-string-solutions">438</a></td>
     <td align="center"><a href="#567-permutation-in-string-solutions">567</a></td>
@@ -71,7 +72,6 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#904-fruit-into-baskets-solutions">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array-solutions">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii-solutions">1004</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -155,6 +155,12 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/10 |   No solution    |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-10.py)  |
 | 2022/03/10 |       4:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-10_2.py) |
 | 2022/03/13 |       9:30       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-13.py)  |
+
+#### [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest))
+
+|    Date    |    Solution Time    |                                                  Language                                                  |
+|:----------:|:-------------------:|:----------------------------------------------------------------------------------------------------------:|
+| 2022/03/24 | Initial solution 😊 | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest/3Sum_closest.py) |
 
 #### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/))
 
