@@ -21,7 +21,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       38 / 2204 (1.7%)       | 838,234 |
+|   Latest   |       40 / 2214 (1.8%)       | 794,721 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
