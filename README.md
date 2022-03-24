@@ -60,9 +60,10 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#217-contains-duplicate-solutions">217</a></td>
     <td align="center"><a href="#238-product-of-array-except-self-solutions">238</a></td>
     <td align="center"><a href="#242-valid-anagram-solutions">242</a></td>
-    <td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters-solutions">340</a></td>
+    <td align="center"><a href="#259-3sum-smaller-solutions">259</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters-solutions">340</a></td>
     <td align="center"><a href="#417-pacific-atlantic-water-flow-solutions">417</a></td>
     <td align="center"><a href="#424-longest-repeating-character-replacement-solutions">424</a></td>
     <td align="center"><a href="#438-find-all-anagrams-in-a-string-solutions">438</a></td>
@@ -72,7 +73,6 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#904-fruit-into-baskets-solutions">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array-solutions">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii-solutions">1004</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -388,6 +388,12 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/07 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram.py)       |
 | 2022/02/22 |       2:29       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-02-11.py) |
 | 2022/02/22 |       2:07       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-02-22.py) |
+
+#### [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller))
+
+|    Date    |  Solution Time   |                                                  Language                                                   |
+|:----------:|:----------------:|:-----------------------------------------------------------------------------------------------------------:|
+| 2022/03/24 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller.py) |
 
 #### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/))
 
