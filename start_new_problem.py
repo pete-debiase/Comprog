@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """Set up to learn a new problem"""
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 import re
 import time
@@ -119,9 +119,7 @@ solution_flag = input("Enter 'done' when done: ")
 end_time = time.time()
 
 delta = round(end_time - start_time)
-m, s = divmod(delta, 60)
-solution_time = f'{m:02d}:{s:02d}'
-print(f'Solution Time: {solution_time}\n')
+print(f'Solution Time: {timedelta(seconds=delta)}\n')
 
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Update main README
