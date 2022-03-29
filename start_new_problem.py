@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Set up to learn a new problem"""
 
 from datetime import datetime, timedelta
@@ -56,7 +56,7 @@ os.makedirs(root, exist_ok=True)
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Prepare solution template
 # └─────────────────────────────────────────────────────────────────────────────
-solution_template = f'''#!/usr/bin/python
+solution_template = f'''#!/usr/bin/env python3
 """{problem_URL}"""
 
 import timeit

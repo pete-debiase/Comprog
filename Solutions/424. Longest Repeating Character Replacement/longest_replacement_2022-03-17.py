@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """https://leetcode.com/problems/longest-repeating-character-replacement/"""
 
 from collections import defaultdict

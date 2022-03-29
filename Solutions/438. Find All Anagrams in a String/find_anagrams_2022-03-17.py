@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """https://leetcode.com/problems/find-all-anagrams-in-a-string/"""
 
 from collections import Counter

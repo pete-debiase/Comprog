@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Review a previously solved LeetCode problem"""
 
 from datetime import datetime
