@@ -9,9 +9,9 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 <!-- MarkdownTOC levels="1,2,3" -->
 
 - [Progress Overview](#progress-overview)
-    + [Stats](#stats)
-    + [Problems](#problems)
-    + [Milestones](#milestones)
+  + [Stats](#stats)
+  + [Problems](#problems)
+  + [Milestones](#milestones)
 - [Solution Records / Notes](#solution-records--notes)
 
 <!-- /MarkdownTOC -->
@@ -21,7 +21,8 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       40 / 2214 (1.8%)       | 794,721 |
+|   Latest   |       40 / 2227 (1.8%)       | 790,820 |
+| 2022/04/02 |       40 / 2227 (1.8%)       | 790,820 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
 
