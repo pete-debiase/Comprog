@@ -30,7 +30,7 @@ with open(recentest_solution, 'r', encoding='utf-8') as file:
     code = [line.strip() for line in file]
 
 heading = '\n'.join(code[:2])
-function_signature = [line for line in code if 'def' in line][0]
+function_signature = [line for line in code if 'def ' in line][0]
 
 boilerplate = f'{heading}\n\nclass Solution:\n    {function_signature}\n        pass\n'
 
