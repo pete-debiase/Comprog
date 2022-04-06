@@ -50,8 +50,12 @@ delta = round(end_time - start_time)
 m, s = divmod(delta, 60)
 solution_time = f'{m:d}:{s:02d}'
 
-if solution_flag == 'done': print(f'Solution Result: Done in {solution_time} \n')
-if solution_flag == 'none': print(f'Solution Result: No solution after {solution_time} \n')
+if solution_flag == 'done':
+    print(f'Solution Result: Done in {solution_time} \n')
+    solution_result = solution_time
+if solution_flag == 'none':
+    print(f'Solution Result: No solution after {solution_time} \n')
+    solution_result = 'No solution'
 
 # ┌─────────────────────────────────────────────────────────────────────────────
 # │ Update problem README
@@ -60,7 +64,7 @@ date = f'{today:%Y/%m/%d}'
 problem_title = solution_metadata[problem]['title'].replace(' ', '%20')
 URL = f'https://github.com/pete-debiase/Comprog/blob/main/Solutions/{problem_title}/{filename}'
 
-table_entry = f'|{today:%Y/%m/%d}|{solution_time}|[Python]({URL})|'
+table_entry = f'|{today:%Y/%m/%d}|{solution_result}|[Python]({URL})|'
 
 with open(f'{root_dir}/README.md', 'a', encoding='utf-8') as file:
     file.write(table_entry + '\n')
