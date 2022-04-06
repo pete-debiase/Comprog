@@ -5,3 +5,4 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/16 | Initial solution 🧐 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string.py)       |
 | 2022/03/17 |        2:54         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-03-17.py) |
+| 2022/04/06 |        20:21        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-04-06.py) |

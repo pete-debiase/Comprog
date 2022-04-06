@@ -21,7 +21,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       40 / 2227 (1.8%)       | 790,820 |
+|   Latest   |       41 / 2227 (1.8%)       | 790,820 |
 | 2022/04/02 |       40 / 2227 (1.8%)       | 790,820 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
@@ -156,6 +156,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/10 |   No solution    |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-10.py)  |
 | 2022/03/10 |       4:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-10_2.py) |
 | 2022/03/13 |       9:30       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-13.py)  |
+| 2022/04/06 |    Near miss     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-06.py)  |
 
 #### [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest))
 
@@ -392,9 +393,10 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 
 #### [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller))
 
-|    Date    |  Solution Time   |                                                  Language                                                   |
-|:----------:|:----------------:|:-----------------------------------------------------------------------------------------------------------:|
-| 2022/03/24 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller.py) |
+|    Date    |  Solution Time   |                                                        Language                                                        |
+|:----------:|:----------------:|:----------------------------------------------------------------------------------------------------------------------:|
+| 2022/03/24 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller.py)       |
+| 2022/04/06 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller_2022-04-06.py) |
 
 #### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/))
 
@@ -402,6 +404,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/14 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct.py)       |
 | 2022/03/15 |        2:55         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct_2022-03-15.py) |
+| 2022/04/06 |        9:22         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/longest_k_distinct_2022-04-06.py) |
 
 #### [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/))
 
@@ -434,6 +437,7 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/16 | Initial solution 🧐 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string.py)       |
 | 2022/03/17 |        2:54         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-03-17.py) |
+| 2022/04/06 |        20:21        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/permutation_in_string_2022-04-06.py) |
 
 #### [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/))
 
@@ -464,6 +468,7 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/14 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets.py)       |
 | 2022/03/15 |        2:56         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-03-15.py) |
+| 2022/04/06 |        6:45         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-04-06.py) |
 
 #### [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/977.%20Squares%20of%20a%20Sorted%20Array/))
 

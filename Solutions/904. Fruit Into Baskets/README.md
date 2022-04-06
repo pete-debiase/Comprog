@@ -5,3 +5,4 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/14 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets.py)       |
 | 2022/03/15 |        2:56         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-03-15.py) |
+| 2022/04/06 |        6:45         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/fruit_into_baskets_2022-04-06.py) |
