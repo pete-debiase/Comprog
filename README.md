@@ -71,10 +71,10 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#567-permutation-in-string-solutions">567</a></td>
     <td align="center"><a href="#647-palindromic-substrings-solutions">647</a></td>
     <td align="center"><a href="#704-binary-search-solutions">704</a></td>
+    <td align="center"><a href="#713-subarray-product-less-than-k-solutions">713</a></td>
     <td align="center"><a href="#904-fruit-into-baskets-solutions">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array-solutions">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii-solutions">1004</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -450,6 +450,12 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/18 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search.py)       |
 | 2022/03/21 |        1:44         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/binary_search_2022-03-21.py) |
+
+#### [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K))
+
+|    Date    |  Solution Time   |                                                               Language                                                                |
+|:----------:|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/04/06 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
