@@ -157,6 +157,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/10 |       4:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-10_2.py) |
 | 2022/03/13 |       9:30       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-13.py)  |
 | 2022/04/06 |    Near miss     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-06.py)  |
+| 2022/04/07 |       8:28       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-07.py)  |
 
 #### [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest))
 
@@ -385,6 +386,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/02 |       3:30       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-02.py) |
 | 2022/02/11 |       6:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-11.py) |
 | 2022/02/26 |       4:25       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-26.py) |
+| 2022/04/07 |    Near miss     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-07.py) |
 
 #### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/))
 - In Python:
@@ -403,6 +405,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 |:----------:|:----------------:|:----------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/24 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller.py)       |
 | 2022/04/06 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller_2022-04-06.py) |
+| 2022/04/07 |       8:55       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller/3Sum_smaller_2022-04-07.py) |
 
 #### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/))
 
@@ -463,9 +466,10 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 
 #### [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K))
 
-|    Date    |  Solution Time   |                                                               Language                                                                |
-|:----------:|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| 2022/04/06 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product.py) |
+|    Date    |  Solution Time   |                                                                     Language                                                                     |
+|:----------:|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/04/06 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product.py)       |
+| 2022/04/07 |       3:50       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product_2022-04-07.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
@@ -489,5 +493,6 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 |:----------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/16 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones.py)       |
 | 2022/03/17 |        1:24         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-03-17.py) |
+| 2022/04/07 |     No solution     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-07.py) |
 
 <!-- Auto-aggregated sub-READMEs -->
