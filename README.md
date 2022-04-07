@@ -21,7 +21,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       41 / 2227 (1.8%)       | 790,820 |
+|   Latest   |       42 / 2229 (1.9%)       | 783,884 |
 | 2022/04/02 |       40 / 2227 (1.8%)       | 790,820 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
@@ -48,6 +48,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
   </tr>
   <tr>
     <td align="center"><a href="#56-merge-intervals-solutions">56</a></td>
+    <td align="center"><a href="#75-sort-colors-solutions">75</a></td>
     <td align="center"><a href="#76-minimum-window-substring-solutions">76</a></td>
     <td align="center"><a href="#88-merge-sorted-array-solutions">88</a></td>
     <td align="center"><a href="#121-best-time-to-buy-and-sell-stock-solutions">121</a></td>
@@ -61,9 +62,9 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#217-contains-duplicate-solutions">217</a></td>
     <td align="center"><a href="#238-product-of-array-except-self-solutions">238</a></td>
     <td align="center"><a href="#242-valid-anagram-solutions">242</a></td>
-    <td align="center"><a href="#259-3sum-smaller-solutions">259</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="#259-3sum-smaller-solutions">259</a></td>
     <td align="center"><a href="#340-longest-substring-with-at-most-k-distinct-characters-solutions">340</a></td>
     <td align="center"><a href="#417-pacific-atlantic-water-flow-solutions">417</a></td>
     <td align="center"><a href="#424-longest-repeating-character-replacement-solutions">424</a></td>
@@ -75,7 +76,6 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#904-fruit-into-baskets-solutions">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array-solutions">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii-solutions">1004</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -256,6 +256,12 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/03/01 |       5:50       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/56.%20Merge%20Intervals/merge_intervals_2022-03-01.py) |
 | 2022/03/06 |       7:54       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/56.%20Merge%20Intervals/merge_intervals_2022-03-06.py) |
 | 2022/03/10 |       4:10       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/56.%20Merge%20Intervals/merge_intervals_2022-03-10.py) |
+
+#### [75. Sort Colors](https://leetcode.com/problems/sort-colors/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors))
+
+|    Date    |  Solution Time   |                                                 Language                                                 |
+|:----------:|:----------------:|:--------------------------------------------------------------------------------------------------------:|
+| 2022/04/07 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors/sort_colors.py) |
 
 #### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/76.%20Minimum%20Window%20Substring/))
 So hard. This problem makes me feel like I'm not cut out to be a software engineer 😢 .
