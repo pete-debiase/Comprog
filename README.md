@@ -21,7 +21,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       42 / 2229 (1.9%)       | 783,884 |
+|   Latest   |       43 / 2229 (1.9%)       | 774,099 |
 | 2022/04/02 |       40 / 2227 (1.8%)       | 790,820 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
@@ -73,10 +73,10 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
     <td align="center"><a href="#647-palindromic-substrings-solutions">647</a></td>
     <td align="center"><a href="#704-binary-search-solutions">704</a></td>
     <td align="center"><a href="#713-subarray-product-less-than-k-solutions">713</a></td>
+    <td align="center"><a href="#844-backspace-string-compare-solutions">844</a></td>
     <td align="center"><a href="#904-fruit-into-baskets-solutions">904</a></td>
     <td align="center"><a href="#977-squares-of-a-sorted-array-solutions">977</a></td>
     <td align="center"><a href="#1004-max-consecutive-ones-iii-solutions">1004</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
@@ -474,6 +474,12 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 |:----------:|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/04/06 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product.py)       |
 | 2022/04/07 |       3:50       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/713.%20Subarray%20Product%20Less%20Than%20K/subarray_product_2022-04-07.py) |
+
+#### [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare))
+
+|    Date    |  Solution Time   |                                                            Language                                                            |
+|:----------:|:----------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/04/08 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare/backspace_compare.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).
