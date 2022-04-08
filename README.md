@@ -107,6 +107,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/01/23 |       4:03       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-01-23.py) |
 | 2022/01/31 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-01-31.py) |
 | 2022/02/22 |      10:00+      | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-02-22.py) |
+| 2022/04/08 |       2:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-04-08.py) |
 
 #### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/))
 
@@ -260,9 +261,10 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 
 #### [75. Sort Colors](https://leetcode.com/problems/sort-colors/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors))
 
-|    Date    |  Solution Time   |                                                 Language                                                 |
-|:----------:|:----------------:|:--------------------------------------------------------------------------------------------------------:|
-| 2022/04/07 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors/sort_colors.py) |
+|    Date    |  Solution Time   |                                                      Language                                                       |
+|:----------:|:----------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| 2022/04/07 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors/sort_colors.py)       |
+| 2022/04/08 |      13:26       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/75.%20Sort%20Colors/sort_colors_2022-04-08.py) |
 
 #### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/76.%20Minimum%20Window%20Substring/))
 So hard. This problem makes me feel like I'm not cut out to be a software engineer 😢 .
@@ -387,6 +389,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/11 |       6:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-11.py) |
 | 2022/02/26 |       4:25       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-26.py) |
 | 2022/04/07 |    Near miss     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-07.py) |
+| 2022/04/08 |       1:52       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-08.py) |
 
 #### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/))
 - In Python:
@@ -456,6 +459,7 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 | 2022/03/12 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12.py)  |
 | 2022/03/12 |        6:49         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-12_2.py) |
 | 2022/03/15 |        11:28        |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-03-15.py)  |
+| 2022/04/08 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/647.%20Palindromic%20Substrings/palindromic_substrings_2022-04-08.py)  |
 
 #### [704. Binary Search](https://leetcode.com/problems/binary-search/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/704.%20Binary%20Search/))
 
@@ -494,5 +498,6 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 | 2022/03/16 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones.py)       |
 | 2022/03/17 |        1:24         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-03-17.py) |
 | 2022/04/07 |     No solution     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-07.py) |
+| 2022/04/08 |        1:13         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-08.py) |
 
 <!-- Auto-aggregated sub-READMEs -->
