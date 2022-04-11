@@ -21,7 +21,7 @@ I use [Anki](https://apps.ankiweb.net/) to schedule daily reviews and practice r
 ### Stats
 |    Date    | Total Solved / Available (%) |  Rank   |
 |:----------:|:----------------------------:|:-------:|
-|   Latest   |       43 / 2229 (1.9%)       | 774,099 |
+|   Latest   |       43 / 2229 (1.9%)       | 765,933 |
 | 2022/04/02 |       40 / 2227 (1.8%)       | 790,820 |
 | 2022/02/24 |       9 / 2184 (0.4%)        |    –    |
 | 2022/01/08 |       0 / 2142 (0.0%)        |    –    |
@@ -128,6 +128,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 | 2022/03/07 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number.py)       |
 | 2022/03/08 |        1:29         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-08.py) |
 | 2022/03/12 |        1:23         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-12.py) |
+| 2022/04/11 |        2:10         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-04-11.py) |
 
 #### [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/11.%20Container%20With%20Most%20Water/))
 
@@ -159,6 +160,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/13 |       9:30       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-13.py)  |
 | 2022/04/06 |    Near miss     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-06.py)  |
 | 2022/04/07 |       8:28       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-07.py)  |
+| 2022/04/11 |       5:07       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-11.py)  |
 
 #### [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest))
 
@@ -441,6 +443,7 @@ Very similar to [567. Permutation in String](https://leetcode.com/problems/permu
 |:----------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022/03/17 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams.py)       |
 | 2022/03/17 |        7:55         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams_2022-03-17.py) |
+| 2022/04/11 |        9:14         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/find_anagrams_2022-04-11.py) |
 
 #### [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/567.%20Permutation%20in%20String/))
 Battled for this one. Took 8+ hours to get a solution I was happy with. Note that "permutation" can be a synonym for "anagram".
@@ -477,9 +480,10 @@ Battled for this one. Took 8+ hours to get a solution I was happy with. Note tha
 
 #### [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare))
 
-|    Date    |  Solution Time   |                                                            Language                                                            |
-|:----------:|:----------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-| 2022/04/08 | Initial solution | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare/backspace_compare.py) |
+|    Date    |  Solution Time   |                                                                 Language                                                                  |
+|:----------:|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| 2022/04/08 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare/backspace_compare.py)       |
+| 2022/04/11 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/844.%20Backspace%20String%20Compare/backspace_compare_2022-04-11.py) |
 
 #### [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/904.%20Fruit%20Into%20Baskets/))
 Identical to [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/).

@@ -11,3 +11,4 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/13 |       9:30       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-03-13.py)  |
 | 2022/04/06 |    Near miss     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-06.py)  |
 | 2022/04/07 |       8:28       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-07.py)  |
+| 2022/04/11 |       5:07       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-11.py)  |

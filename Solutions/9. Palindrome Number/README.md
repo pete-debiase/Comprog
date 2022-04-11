@@ -6,3 +6,4 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 | 2022/03/07 | Initial solution 😊 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number.py)       |
 | 2022/03/08 |        1:29         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-08.py) |
 | 2022/03/12 |        1:23         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-03-12.py) |
+| 2022/04/11 |        2:10         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/palindrome_number_2022-04-11.py) |
