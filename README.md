@@ -392,6 +392,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/26 |       4:25       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-02-26.py) |
 | 2022/04/07 |    Near miss     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-07.py) |
 | 2022/04/08 |       1:52       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-08.py) |
+| 2022/04/12 |       2:07       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-12.py) |
 
 #### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/))
 - In Python:
@@ -509,5 +510,6 @@ Identical to [340. Longest Substring with At Most K Distinct Characters](https:/
 | 2022/03/17 |        1:24         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-03-17.py) |
 | 2022/04/07 |     No solution     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-07.py) |
 | 2022/04/08 |        1:13         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-08.py) |
+| 2022/04/12 |        2:02         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1004.%20Max%20Consecutive%20Ones%20III/max_consecutive_ones_2022-04-12.py) |
 
 <!-- Auto-aggregated sub-READMEs -->
