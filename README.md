@@ -119,6 +119,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/03/12 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12.py)  |
 | 2022/03/12 |        3:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12_2.py) |
 | 2022/03/15 |        4:25         |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-15.py)  |
+| 2022/04/13 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-04-13.py)  |
 
 #### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/9.%20Palindrome%20Number/))
 Fancy math solution turns out to be surprisingly slow in practice. Silly string solution is easy and fast.
@@ -146,6 +147,7 @@ Fancy math solution turns out to be surprisingly slow in practice. Silly string 
 | 2022/03/10 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix.py)       |
 | 2022/03/12 |        2:05         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-12.py) |
 | 2022/03/14 |        2:02         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-03-14.py) |
+| 2022/04/13 |        2:30         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/14.%20Longest%20Common%20Prefix/longest_common_prefix_2022-04-13.py) |
 
 #### [15. 3Sum](https://leetcode.com/problems/3sum/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/))
 I don't like this problem :( . But became easier after learning [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
@@ -238,6 +240,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/02/28 |        5:19         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-02-28.py) |
 | 2022/03/04 |        4:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-04.py) |
 | 2022/03/10 |        4:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-10.py) |
+| 2022/04/13 |        3:31         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-04-13.py) |
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/))
 Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/).
@@ -349,6 +352,7 @@ First time encountering DFS. What a neat algo 🤓 .
 | 2022/03/10 |       6:40       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-10.py) |
 | 2022/03/12 |       9:32       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-12.py) |
 | 2022/03/21 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-21.py) |
+| 2022/04/13 |      12:20       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-04-13.py) |
 
 #### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/206.%20Reverse%20Linked%20List/))
 A classic :) . Kind of hurts my brain though.
@@ -369,6 +373,7 @@ A classic :) . Kind of hurts my brain though.
 | 2022/03/13 | Initial solution 😶 |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum.py)       |
 | 2022/03/14 |        3:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-14.py) |
 | 2022/03/17 |        11:20        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-03-17.py) |
+| 2022/04/13 |        11:13        | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum/minimum_subarray_sum_2022-04-13.py) |
 
 #### [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/))
 Real-world performance can be different from what Big-O notation says. Big-O notation is most applicable for "sufficiently large input", but if n is not sufficiently large, an algorithm with worse Big-O time complexity might actually outperform one with better Big-O time complexity.
@@ -428,6 +433,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/03/10 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/pacific_atlantic.py)       |
 | 2022/03/12 |      13:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/pacific_atlantic_2022-03-12.py) |
 | 2022/03/14 |       7:40       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/pacific_atlantic_2022-03-14.py) |
+| 2022/04/13 |      14:41       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow/pacific_atlantic_2022-04-13.py) |
 
 #### [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/424.%20Longest%20Repeating%20Character%20Replacement/))
 

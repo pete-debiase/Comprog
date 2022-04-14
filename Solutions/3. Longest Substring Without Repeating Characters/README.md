@@ -8,3 +8,4 @@
 | 2022/03/12 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12.py)  |
 | 2022/03/12 |        3:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-12_2.py) |
 | 2022/03/15 |        4:25         |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-03-15.py)  |
+| 2022/04/13 |     No solution     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_2022-04-13.py)  |

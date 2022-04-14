@@ -7,3 +7,4 @@ First time encountering DFS. What a neat algo 🤓 .
 | 2022/03/10 |       6:40       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-10.py) |
 | 2022/03/12 |       9:32       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-12.py) |
 | 2022/03/21 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-03-21.py) |
+| 2022/04/13 |      12:20       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/200.%20Number%20of%20Islands/number_of_islands_2022-04-13.py) |
