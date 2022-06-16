@@ -386,6 +386,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/01/22 |       1:18       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-01-22.py) |
 | 2022/01/29 |       1:29       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-01-29.py) |
 | 2022/02/22 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-02-22.py) |
+| 2022/06/15 |       2:08       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-06-15.py) |
 
 #### [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/))
 
