@@ -232,6 +232,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/02/02 |       3:18       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-02-02.py) |
 | 2022/02/11 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-02-11.py) |
 | 2022/02/26 |       2:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-02-26.py) |
+| 2022/06/15 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-06-15.py) |
 
 #### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/))
 - In Python, use `collections.defaultdict` whenever you encounter a situation like this (building a hashmap where it's super convenient to have a default value automatically initialized for each key encountered).
