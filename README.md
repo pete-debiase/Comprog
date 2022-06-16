@@ -109,6 +109,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/01/31 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-01-31.py) |
 | 2022/02/22 |      10:00+      | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-02-22.py) |
 | 2022/04/08 |       2:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-04-08.py) |
+| 2022/06/15 |       6:02       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-06-15.py) |
 
 #### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/))
 
