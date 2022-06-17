@@ -12,3 +12,4 @@
 | 2022/02/11 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-02-11.py) |
 | 2022/02/26 |       2:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-02-26.py) |
 | 2022/06/15 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-06-15.py) |
+| 2022/06/16 |       0:50       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/48.%20Rotate%20Image/rotate_image_2022-06-16.py) |
