@@ -8,3 +8,4 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/01/29 |       1:29       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-01-29.py) |
 | 2022/02/22 |       1:59       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-02-22.py) |
 | 2022/06/15 |       2:08       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-06-15.py) |
+| 2022/06/23 |       1:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/217.%20Contains%20Duplicate/contains_duplicate_2022-06-23.py) |
