@@ -422,6 +422,8 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/07 | Initial solution |      [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram.py)       |
 | 2022/02/22 |       2:29       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-02-11.py) |
 | 2022/02/22 |       2:07       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-02-22.py) |
+| 2022/03/17 |     Unknown      | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-03-17.py) |
+| 2022/06/24 |       2:20       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-06-24.py) |
 
 #### [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller))
 
