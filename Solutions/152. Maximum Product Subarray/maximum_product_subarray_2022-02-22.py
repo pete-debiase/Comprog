@@ -9,5 +9,3 @@ class Solution:
             product_neg = min(product_neg, product_neg * number)
             product_max = max(product_current, product_max, product_neg)
         return product_max
-
-

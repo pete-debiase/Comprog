@@ -330,6 +330,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/02/02 |       4:56       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-02.py) |
 | 2022/02/05 |       3:12       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-05.py) |
 | 2022/02/22 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-22.py) |
+| 2022/06/24 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-24.py) |
 
 #### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/))
 Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
