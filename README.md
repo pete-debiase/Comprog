@@ -260,6 +260,7 @@ Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/prob
 | 2022/03/14 |       3:02       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/maximum_subarray_2022-03-14.py) |
 | 2022/03/17 |       2:34       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/maximum_subarray_2022-03-17.py) |
 | 2022/06/16 |       5:03       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/maximum_subarray_2022-06-16.py) |
+| 2022/06/24 |       1:33       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/maximum_subarray_2022-06-24.py) |
 
 #### [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/56.%20Merge%20Intervals/))
 
