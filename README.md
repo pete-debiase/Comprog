@@ -110,6 +110,7 @@ Solutions that are O(n^2) and O(1) in time and space, respectively, can often be
 | 2022/02/22 |      10:00+      | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-02-22.py) |
 | 2022/04/08 |       2:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-04-08.py) |
 | 2022/06/15 |       6:02       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-06-15.py) |
+| 2022/06/25 |       2:11       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/1.%20Two%20Sum/two_sum_2022-06-25.py) |
 
 #### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/))
 
@@ -190,6 +191,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/02/27 |       2:05       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-02-26.py) |
 | 2022/03/07 |       5:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-03-07.py) |
 | 2022/06/24 |    Near miss     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-06-24.py) |
+| 2022/06/25 |       1:51       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-06-25.py) |
 
 #### [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/))
 
@@ -310,6 +312,7 @@ Always test algo in real use case. Here, using `sort()` in algo with non-optimal
 | 2022/02/05 |       4:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best_time_to_buy_and_sell_stock_2022-02-05.py) |
 | 2022/02/26 |       3:53       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best_time_to_buy_and_sell_stock_2022-02-26.py) |
 | 2022/06/16 |       2:51       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best_time_to_buy_and_sell_stock_2022-06-16.py) |
+| 2022/06/25 |       4:06       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best_time_to_buy_and_sell_stock_2022-06-25.py) |
 
 #### [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/141.%20Linked%20List%20Cycle/))
 First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A fine algorithm :) .
@@ -332,6 +335,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/02/05 |       3:12       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-05.py) |
 | 2022/02/22 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-22.py) |
 | 2022/06/24 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-24.py) |
+| 2022/06/25 |       2:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-25.py) |
 
 #### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/))
 Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
