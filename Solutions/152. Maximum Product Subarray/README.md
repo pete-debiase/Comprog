@@ -8,3 +8,4 @@
 | 2022/02/22 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-22.py) |
 | 2022/06/24 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-24.py) |
 | 2022/06/25 |       2:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-25.py) |
+| 2022/07/11 |       4:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-07-11.py) |

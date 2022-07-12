@@ -192,6 +192,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/03/07 |       5:24       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-03-07.py) |
 | 2022/06/24 |    Near miss     | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-06-24.py) |
 | 2022/06/25 |       1:51       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-06-25.py) |
+| 2022/07/11 |       4:43       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/20.%20Valid%20Parentheses/valid_parentheses_2022-07-11.py) |
 
 #### [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/))
 
@@ -336,6 +337,7 @@ First time encountering Floyd's cycle-finding algorithm (tortoise and hare). A f
 | 2022/02/22 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-02-22.py) |
 | 2022/06/24 |   No solution    | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-24.py) |
 | 2022/06/25 |       2:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-06-25.py) |
+| 2022/07/11 |       4:09       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/152.%20Maximum%20Product%20Subarray/maximum_product_subarray_2022-07-11.py) |
 
 #### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/))
 Very similar to [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).
@@ -429,6 +431,7 @@ Real-world performance can be different from what Big-O notation says. Big-O not
 | 2022/02/22 |       2:07       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-02-22.py) |
 | 2022/03/17 |     Unknown      | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-03-17.py) |
 | 2022/06/24 |       2:20       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-06-24.py) |
+| 2022/07/11 |       0:45       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/242.%20Valid%20Anagram/valid_anagram_2022-07-11.py) |
 
 #### [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/259.%203Sum%20Smaller))
 
