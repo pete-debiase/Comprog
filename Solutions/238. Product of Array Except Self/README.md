@@ -13,3 +13,4 @@
 | 2022/04/12 |       2:07       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-04-12.py) |
 | 2022/06/16 |       5:40       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-06-16.py) |
 | 2022/06/23 |       1:18       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-06-23.py) |
+| 2022/07/20 |       2:39       | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/238.%20Product%20of%20Array%20Except%20Self/product_of_array_except_self_2022-07-20.py) |
