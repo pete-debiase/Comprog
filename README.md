@@ -252,6 +252,7 @@ First time actually implementing binary search. Initially difficult, became seco
 | 2022/03/04 |        4:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-04.py) |
 | 2022/03/10 |        4:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-10.py) |
 | 2022/04/13 |        3:31         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-04-13.py) |
+| 2022/07/21 |        3:47         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-07-21.py) |
 
 #### [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/53.%20Maximum%20Subarray/))
 Very similar to [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/).

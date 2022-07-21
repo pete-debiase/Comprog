@@ -8,3 +8,4 @@
 | 2022/03/04 |        4:48         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-04.py) |
 | 2022/03/10 |        4:33         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-03-10.py) |
 | 2022/04/13 |        3:31         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-04-13.py) |
+| 2022/07/21 |        3:47         | [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/49.%20Group%20Anagrams/group_anagrams_2022-07-21.py) |
