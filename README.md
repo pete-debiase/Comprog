@@ -166,6 +166,7 @@ I don't like this problem :( . But became easier after learning [167. Two Sum II
 | 2022/04/06 |    Near miss     |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-06.py)  |
 | 2022/04/07 |       8:28       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-07.py)  |
 | 2022/04/11 |       5:07       |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-04-11.py)  |
+| 2022/07/21 |   No solution    |  [Python](https://github.com/pete-debiase/Comprog/blob/main/Solutions/15.%203Sum/3Sum_2022-07-21.py)  |
 
 #### [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) ([solutions](https://github.com/pete-debiase/Comprog/blob/main/Solutions/16.%203Sum%20Closest))
 
